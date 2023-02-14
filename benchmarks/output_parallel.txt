@@ -1,0 +1,50 @@
+Elapsed time: 1.4891860485076904 seconds
+number of edges:  97
+m:  100
+average clustering coefficient for generated graph:  0.4800000000000001
+average clustering coefficient for generated graph:  0.49000000000000005
+Elapsed time: 0.24572396278381348 seconds
+number of edges:  190
+m:  190
+average clustering coefficient for generated graph:  1.0
+average clustering coefficient for generated graph:  1.0
+Elapsed time: 2.4440906047821045 seconds
+number of edges:  149
+m:  150
+average clustering coefficient for generated graph:  0.3833333333333334
+average clustering coefficient for generated graph:  0.4
+Elapsed time: 2.9123623371124268 seconds
+number of edges:  296
+m:  300
+average clustering coefficient for generated graph:  0.67
+average clustering coefficient for generated graph:  0.6633333333333332
+Elapsed time: 8.586797714233398 seconds
+number of edges:  500
+m:  500
+average clustering coefficient for generated graph:  0.11800000000000002
+average clustering coefficient for generated graph:  0.11400000000000002
+Elapsed time: 13.933164834976196 seconds
+number of edges:  999
+m:  1000
+average clustering coefficient for generated graph:  0.19499999999999998
+average clustering coefficient for generated graph:  0.192
+Elapsed time: 37.503724336624146 seconds
+number of edges:  297
+m:  300
+average clustering coefficient for generated graph:  0.0115
+average clustering coefficient for generated graph:  0.004
+Elapsed time: 42.07477807998657 seconds
+number of edges:  398
+m:  400
+average clustering coefficient for generated graph:  0.022
+average clustering coefficient for generated graph:  0.019000000000000003
+Elapsed time: 46.637388944625854 seconds
+number of edges:  998
+m:  1000
+average clustering coefficient for generated graph:  0.0435
+average clustering coefficient for generated graph:  0.054000000000000006
+Elapsed time: 1311.557712316513 seconds
+number of edges:  3944
+m:  4000
+average clustering coefficient for generated graph:  0.008600000000000002
+average clustering coefficient for generated graph:  0.007600000000000001

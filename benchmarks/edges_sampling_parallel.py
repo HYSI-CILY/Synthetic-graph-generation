@@ -7,31 +7,34 @@ from cl_model import Cl_distribution
 import threading
 import time
 
-def edge_sampling_parallel(graph,m,degree_sequence,lock):
-    while graph.number_of_edges()<m:
+def edge_sampling_parallel(graph,m,degree_sequence,lock,cl_helper):
+    global iter
+    while graph.number_of_edges() < m and iter<10000:
         id1 = cl_helper.rvs()
-        while graph.degree(id1)>=degree_sequence[id1]:
-            id1 = cl_helper.rvs()
-        id2 = cl_helper.rvs()
-        while graph.degree(id2)>=degree_sequence[id2]:
+        if graph.degree(id1)<degree_sequence[id1]:
             id2 = cl_helper.rvs()
-        if id1==id2:
-            continue
-        else:
-            graph.add_edge(id1,id2)
 
-def edge_sampling_sequentiel(graph,m,degree_sequence):
-    while graph.number_of_edges()<m:
+            if id2==id1 or graph.degree(id2)>=degree_sequence[id2]:
+                continue
+            else:
+
+                graph.add_edge(id1,id2)
+        with lock:
+            iter+=1
+
+
+def edge_sampling_sequentiel(graph,m,degree_sequence,cl_helper):
+    iter = 0
+    while graph.number_of_edges() < m and iter<10000:
         id1 = cl_helper.rvs()
-        while graph.degree(id1)>=degree_sequence[id1]:
-            id1 = cl_helper.rvs()
-        id2 = cl_helper.rvs()
-        while graph.degree(id2)>=degree_sequence[id2]:
+        if graph.degree(id1)<degree_sequence[id1]:
             id2 = cl_helper.rvs()
-        if id1==id2:
-            continue
-        else:
-            graph.add_edge(id1,id2)
+        
+            if id2==id1 or graph.degree(id2)>=degree_sequence[id2]:
+                continue
+            else:
+                graph.add_edge(id1,id2)
+        iter+=1
 
 def average_clustering(graph, trials=1000):
     triangles = 0
@@ -64,17 +67,17 @@ for i in range (0,n):
 
 lock = threading.Lock()
 threads = []
-
+iter = 0
 start_time = time.time()
 for i in range(5):
-    t = threading.Thread(target=edge_sampling_parallel(graph_generated,m-5,degree_sequence,lock))
+    t = threading.Thread(target=edge_sampling_parallel(graph_generated,m-5,degree_sequence,lock,cl_helper))
     threads.append(t)
     t.start()
 
 for t in threads:
     t.join()
 
-edge_sampling_sequentiel(graph_generated,m,degree_sequence)
+edge_sampling_sequentiel(graph_generated,m,degree_sequence,cl_helper)
 
 end_time = time.time()
 

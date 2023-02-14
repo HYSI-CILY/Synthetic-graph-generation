@@ -7,6 +7,7 @@ from cl_model import Cl_distribution
 import threading
 import time
 
+'''
 def edge_sampling(graph,m):
     global iter
     while graph.number_of_edges()<m:
@@ -19,6 +20,19 @@ def edge_sampling(graph,m):
         while id1==id2:
             id2 = cl_helper.rvs()
         graph.add_edge(id1,id2)
+'''
+
+def edge_sampling(graph,m,cl_helper,degree_sequence):
+    iter = 0
+    while graph.number_of_edges() < m and iter<10000:
+        id1 = cl_helper.rvs()
+        if graph.degree(id1)<degree_sequence[id1]:
+            id2 = cl_helper.rvs()
+            if id2==id1 or graph.degree(id2)>=degree_sequence[id2]:
+                continue
+            else:
+                graph.add_edge(id1,id2)
+        iter+=1
 
 def average_clustering(graph, trials=1000):
     triangles = 0
@@ -50,7 +64,7 @@ for i in range (0,n):
 
 start_time = time.time()
 
-edge_sampling(graph_generated,m)
+edge_sampling(graph_generated,m,cl_helper=cl_helper,degree_sequence=degree_sequence)
 
 end_time = time.time()
 

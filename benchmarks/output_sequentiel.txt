@@ -1,40 +1,50 @@
-Elapsed time: 0.06064963340759277 seconds
+Elapsed time: 0.11692285537719727 seconds
 number of edges:  100
 m:  100
-average clustering coefficient for generated graph:  0.5449999999999999
-average clustering coefficient for generated graph:  0.52
-Elapsed time: 0.17019248008728027 seconds
+average clustering coefficient for generated graph:  0.47000000000000003
+average clustering coefficient for generated graph:  0.485
+Elapsed time: 0.2332472801208496 seconds
 number of edges:  190
 m:  190
 average clustering coefficient for generated graph:  1.0
 average clustering coefficient for generated graph:  1.0
-Elapsed time: 0.15509724617004395 seconds
+Elapsed time: 0.21373248100280762 seconds
 number of edges:  150
 m:  150
-average clustering coefficient for generated graph:  0.33999999999999997
-average clustering coefficient for generated graph:  0.34666666666666673
-Elapsed time: 0.3896946907043457 seconds
-number of edges:  300
+average clustering coefficient for generated graph:  0.3833333333333333
+average clustering coefficient for generated graph:  0.35333333333333333
+Elapsed time: 2.4113850593566895 seconds
+number of edges:  299
 m:  300
-average clustering coefficient for generated graph:  0.6766666666666667
-average clustering coefficient for generated graph:  0.6866666666666668
-Elapsed time: 1.5036261081695557 seconds
-number of edges:  500
+average clustering coefficient for generated graph:  0.6599999999999999
+average clustering coefficient for generated graph:  0.73
+Elapsed time: 10.909345626831055 seconds
+number of edges:  498
 m:  500
-average clustering coefficient for generated graph:  0.10500000000000001
-average clustering coefficient for generated graph:  0.10800000000000001
-Elapsed time: 3.0136847496032715 seconds
-number of edges:  1000
+average clustering coefficient for generated graph:  0.10200000000000001
+average clustering coefficient for generated graph:  0.096
+Elapsed time: 11.98925518989563 seconds
+number of edges:  996
 m:  1000
-average clustering coefficient for generated graph:  0.185
-average clustering coefficient for generated graph:  0.21399999999999997
-Elapsed time: 3.7493979930877686 seconds
-number of edges:  300
+average clustering coefficient for generated graph:  0.199
+average clustering coefficient for generated graph:  0.192
+Elapsed time: 30.08475613594055 seconds
+number of edges:  299
 m:  300
-average clustering coefficient for generated graph:  0.0095
-average clustering coefficient for generated graph:  0.013500000000000002
-Elapsed time: 5.718075275421143 seconds
-number of edges:  400
+average clustering coefficient for generated graph:  0.0185
+average clustering coefficient for generated graph:  0.016
+Elapsed time: 31.041305541992188 seconds
+number of edges:  396
 m:  400
-average clustering coefficient for generated graph:  0.029500000000000005
-average clustering coefficient for generated graph:  0.014500000000000002
+average clustering coefficient for generated graph:  0.016
+average clustering coefficient for generated graph:  0.010000000000000002
+Elapsed time: 34.23498296737671 seconds
+number of edges:  993
+m:  1000
+average clustering coefficient for generated graph:  0.05600000000000001
+average clustering coefficient for generated graph:  0.0665
+Elapsed time: 832.611998796463 seconds
+number of edges:  3878
+m:  4000
+average clustering coefficient for generated graph:  0.0084
+average clustering coefficient for generated graph:  0.0092
