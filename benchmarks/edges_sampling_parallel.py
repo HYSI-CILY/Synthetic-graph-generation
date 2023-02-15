@@ -94,4 +94,7 @@ print("number of edges: ",graph_generated.number_of_edges())
 print("m: ",m)
 
 print("average clustering coefficient for generated graph: ", value_generated/10)
-print("average clustering coefficient for generated graph: ", value_original/10)
+print("average clustering coefficient for original graph: ", value_original/10)
+
+
+

@@ -1,0 +1,375 @@
+Elapsed time: 0.13511371612548828 seconds
+number of edges generated:  100
+m:  100
+n:  20
+average clustering coefficient for generated graph:  0.265
+average clustering coefficient for original graph:  0.5249999999999999
+relative error rate for clustering coefficient:  0.49523809523809514
+mse for pagerank:  0.000390547749477346
+epsilon:  0.1
+degree sequence:  [12, 13, 11, 10, 8, 10, 10, 8, 6, 11, 14, 10, 10, 9, 14, 9, 9, 10, 8, 8]
+degree sequence with laplace:  [10, -76, 19, -6, -9, -6, -30, -4, -24, -15, 9, -4, -57, 43, 40, 31, 14, 89, 33, -24]
+degree sequence constrained:  [12, 12, 12, 10, 10, 10, 10, 10, -6, 12, 21, 10, 10, 10, 21, 10, 10, 12, 10, 10]
+mse of degree sequence with laplace:  1352.55
+mse of degree sequence with constraint laplace :  29.9
+clustering coefficient for graph generated with laplace:  0.17
+mse of pagerank with laplace:  0.0030688838144404037
+clustering coefficient for graph generated with constraint laplace:  0.261
+mse of pagerank with constraint laplace:  0.0002670800677380912
+epsilon:  1
+degree sequence:  [12, 13, 11, 10, 8, 10, 10, 8, 6, 11, 14, 10, 10, 9, 14, 9, 9, 10, 8, 8]
+degree sequence with laplace:  [18, 12, 12, 10, 13, 10, 10, 8, 8, 5, 14, 10, 10, 10, 15, 9, 9, 8, 7, 8]
+degree sequence constrained:  [12, 14, 10, 10, 8, 10, 10, 8, 6, 10, 14, 10, 10, 10, 15, 10, 10, 10, 8, 10]
+mse of degree sequence with laplace:  5.5
+mse of degree sequence with constraint laplace :  9.85
+clustering coefficient for graph generated with laplace:  0.338
+mse of pagerank with laplace:  0.0005514855692293521
+clustering coefficient for graph generated with constraint laplace:  0.222
+mse of pagerank with constraint laplace:  0.00029480283044486835
+epsilon:  10
+degree sequence:  [12, 13, 11, 10, 8, 10, 10, 8, 6, 11, 14, 10, 10, 9, 14, 9, 9, 10, 8, 8]
+degree sequence with laplace:  [12, 13, 11, 10, 8, 10, 10, 8, 6, 11, 14, 10, 10, 9, 14, 9, 9, 10, 8, 8]
+degree sequence constrained:  [12, 13, 11, 10, 8, 10, 10, 8, 7, 11, 14, 10, 10, 9, 14, 9, 9, 10, 8, 8]
+mse of degree sequence with laplace:  0.0
+mse of degree sequence with constraint laplace :  10.35
+clustering coefficient for graph generated with laplace:  0.276
+mse of pagerank with laplace:  0.000147739485726063
+clustering coefficient for graph generated with constraint laplace:  0.232
+mse of pagerank with constraint laplace:  0.00029807840711394175
+---------------------------------------------------------------------
+Elapsed time: 1.3542683124542236 seconds
+number of edges generated:  187
+m:  190
+n:  20
+average clustering coefficient for generated graph:  0.43500000000000005
+average clustering coefficient for original graph:  1.0
+relative error rate for clustering coefficient:  0.565
+mse for pagerank:  4.598116748501696e-05
+epsilon:  0.1
+degree sequence:  [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+degree sequence with laplace:  [26, 9, 24, 13, 42, 14, 4, 12, -13, 17, 66, 15, 3, -25, -2, 28, 26, 11, -5, 44]
+degree sequence constrained:  [3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 12, 26, 26, 26, 26, 36, 36, 36, 36, 36]
+mse of degree sequence with laplace:  415.95
+mse of degree sequence with constraint laplace :  198.55
+clustering coefficient for graph generated with laplace:  0.567
+mse of pagerank with laplace:  0.0009166514626173818
+clustering coefficient for graph generated with constraint laplace:  0.795
+mse of pagerank with constraint laplace:  0.001144435522798348
+epsilon:  1
+degree sequence:  [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+degree sequence with laplace:  [20, 21, 18, 16, 19, 19, 21, 19, 16, 18, 15, 18, 19, 20, 15, 17, 22, 21, 22, 22]
+degree sequence constrained:  [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 19, 19, 19, 19, 25, 25, 25]
+mse of degree sequence with laplace:  4.9
+mse of degree sequence with constraint laplace :  6.05
+clustering coefficient for graph generated with laplace:  0.473
+mse of pagerank with laplace:  7.333581277850344e-05
+clustering coefficient for graph generated with constraint laplace:  0.483
+mse of pagerank with constraint laplace:  8.538843900147992e-05
+epsilon:  10
+degree sequence:  [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+degree sequence with laplace:  [19, 19, 18, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+degree sequence constrained:  [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 19]
+mse of degree sequence with laplace:  0.05
+mse of degree sequence with constraint laplace :  0.0
+clustering coefficient for graph generated with laplace:  0.474
+mse of pagerank with laplace:  4.802284126084319e-05
+clustering coefficient for graph generated with constraint laplace:  0.487
+mse of pagerank with constraint laplace:  3.928262279439524e-05
+---------------------------------------------------------------------
+Elapsed time: 0.20435070991516113 seconds
+number of edges generated:  150
+m:  150
+n:  30
+average clustering coefficient for generated graph:  0.1766666666666667
+average clustering coefficient for original graph:  0.32333333333333336
+relative error rate for clustering coefficient:  0.45360824742268036
+mse for pagerank:  0.00016836155579388784
+epsilon:  0.1
+degree sequence:  [10, 7, 9, 9, 9, 9, 10, 14, 11, 11, 13, 11, 13, 13, 9, 10, 14, 6, 6, 10, 8, 14, 7, 7, 13, 7, 7, 12, 11, 10]
+degree sequence with laplace:  [17, -6, 27, -4, 10, 1, 5, -15, 8, -21, 3, 3, 17, -9, 9, 41, 14, -13, 8, -25, -15, 0, 2, 9, 1, 35, 38, 14, 14, -61]
+degree sequence constrained:  [3, 3, 3, 3, 3, 3, 3, 9, 9, 9, 9, 9, 9, 9, 3, 3, 9, 3, 3, 9, 3, 39, 3, 3, 9, 3, 3, 9, 9, 9]
+mse of degree sequence with laplace:  452.9
+mse of degree sequence with constraint laplace :  54.53333333333333
+clustering coefficient for graph generated with laplace:  0.235
+mse of pagerank with laplace:  0.0014388643369095371
+clustering coefficient for graph generated with constraint laplace:  0.177
+mse of pagerank with constraint laplace:  0.00029382221385080393
+epsilon:  1
+degree sequence:  [10, 7, 9, 9, 9, 9, 10, 14, 11, 11, 13, 11, 13, 13, 9, 10, 14, 6, 6, 10, 8, 14, 7, 7, 13, 7, 7, 12, 11, 10]
+degree sequence with laplace:  [4, 12, 10, 10, 5, 9, 11, 18, 11, 9, 13, 14, 11, 18, 1, 11, 19, 6, 4, 9, 10, 14, 7, 6, 10, 4, 7, 8, 10, 15]
+degree sequence constrained:  [11, 4, 7, 7, 8, 8, 11, 14, 11, 11, 14, 11, 14, 14, 11, 11, 14, 4, 4, 11, 7, 14, 7, 7, 14, 7, 7, 12, 11, 11]
+mse of degree sequence with laplace:  9.933333333333334
+mse of degree sequence with constraint laplace :  14.833333333333334
+clustering coefficient for graph generated with laplace:  0.236
+mse of pagerank with laplace:  0.00014018592893149667
+clustering coefficient for graph generated with constraint laplace:  0.172
+mse of pagerank with constraint laplace:  9.034878778457599e-05
+epsilon:  10
+degree sequence:  [10, 7, 9, 9, 9, 9, 10, 14, 11, 11, 13, 11, 13, 13, 9, 10, 14, 6, 6, 10, 8, 14, 7, 7, 13, 7, 7, 12, 11, 10]
+degree sequence with laplace:  [10, 7, 9, 9, 9, 9, 10, 14, 11, 11, 13, 12, 12, 12, 9, 10, 14, 5, 6, 11, 8, 14, 7, 7, 13, 7, 7, 12, 11, 10]
+degree sequence constrained:  [10, 7, 9, 9, 9, 9, 10, 14, 11, 11, 13, 11, 13, 13, 10, 10, 14, 6, 6, 10, 8, 14, 7, 7, 13, 7, 7, 12, 11, 10]
+mse of degree sequence with laplace:  0.16666666666666666
+mse of degree sequence with constraint laplace :  12.3
+clustering coefficient for graph generated with laplace:  0.157
+mse of pagerank with laplace:  0.0001030267948598287
+clustering coefficient for graph generated with constraint laplace:  0.164
+mse of pagerank with constraint laplace:  0.0001675829984803442
+---------------------------------------------------------------------
+Elapsed time: 2.3479745388031006 seconds
+number of edges generated:  298
+m:  300
+n:  30
+average clustering coefficient for generated graph:  0.35
+average clustering coefficient for original graph:  0.7033333333333334
+relative error rate for clustering coefficient:  0.5023696682464456
+mse for pagerank:  2.8483565314574258e-05
+epsilon:  0.1
+degree sequence:  [21, 20, 19, 22, 22, 20, 18, 19, 17, 21, 23, 16, 22, 20, 19, 19, 19, 21, 21, 22, 19, 20, 22, 18, 24, 20, 20, 21, 19, 16]
+degree sequence with laplace:  [56, -10, 17, 21, 12, -103, 28, 22, 36, 122, 26, -16, 25, -6, 4, 19, 36, 82, 18, 10, 18, 41, 25, -8, 18, 133, 33, -4, 18, 23]
+degree sequence constrained:  [26, 23, 21, 32, 32, 23, 21, 21, 21, 26, 32, 21, 32, 23, 21, 23, 23, 26, 26, 32, 23, 23, 32, 21, 32, 23, 23, 26, 23, 21]
+mse of degree sequence with laplace:  1630.4
+mse of degree sequence with constraint laplace :  47.266666666666666
+clustering coefficient for graph generated with laplace:  0.477
+mse of pagerank with laplace:  0.0004659163477766461
+clustering coefficient for graph generated with constraint laplace:  0.349
+mse of pagerank with constraint laplace:  5.4148549624437614e-05
+epsilon:  1
+degree sequence:  [21, 20, 19, 22, 22, 20, 18, 19, 17, 21, 23, 16, 22, 20, 19, 19, 19, 21, 21, 22, 19, 20, 22, 18, 24, 20, 20, 21, 19, 16]
+degree sequence with laplace:  [18, 20, 16, 22, 21, 14, 25, 20, 18, 20, 23, 15, 22, 20, 22, 19, 22, 21, 20, 22, 17, 24, 20, 26, 22, 20, 26, 19, 16, 19]
+degree sequence constrained:  [21, 21, 18, 21, 21, 21, 18, 18, 18, 21, 28, 16, 21, 21, 18, 18, 19, 21, 21, 21, 21, 21, 28, 18, 28, 21, 21, 21, 21, 16]
+mse of degree sequence with laplace:  9.233333333333333
+mse of degree sequence with constraint laplace :  11.8
+clustering coefficient for graph generated with laplace:  0.314
+mse of pagerank with laplace:  5.4334601394646036e-05
+clustering coefficient for graph generated with constraint laplace:  0.341
+mse of pagerank with constraint laplace:  4.519643996595503e-05
+epsilon:  10
+degree sequence:  [21, 20, 19, 22, 22, 20, 18, 19, 17, 21, 23, 16, 22, 20, 19, 19, 19, 21, 21, 22, 19, 20, 22, 18, 24, 20, 20, 21, 19, 16]
+degree sequence with laplace:  [21, 20, 19, 22, 22, 20, 18, 19, 16, 21, 23, 16, 22, 20, 19, 19, 19, 21, 21, 22, 19, 20, 22, 18, 24, 19, 21, 21, 19, 16]
+degree sequence constrained:  [21, 20, 19, 22, 22, 20, 18, 19, 17, 21, 23, 16, 22, 20, 19, 19, 19, 21, 21, 22, 19, 20, 22, 18, 24, 20, 20, 21, 19, 16]
+mse of degree sequence with laplace:  0.1
+mse of degree sequence with constraint laplace :  7.866666666666666
+clustering coefficient for graph generated with laplace:  0.313
+mse of pagerank with laplace:  2.9717851208657905e-05
+clustering coefficient for graph generated with constraint laplace:  0.312
+mse of pagerank with constraint laplace:  3.727176180540595e-05
+---------------------------------------------------------------------
+Elapsed time: 10.456920385360718 seconds
+number of edges generated:  499
+m:  500
+n:  100
+average clustering coefficient for generated graph:  0.05499999999999999
+average clustering coefficient for original graph:  0.081
+relative error rate for clustering coefficient:  0.32098765432098775
+mse for pagerank:  1.5856225691542883e-05
+epsilon:  0.1
+degree sequence:  [10, 11, 8, 3, 11, 10, 8, 7, 9, 6, 6, 11, 10, 8, 14, 12, 10, 16, 11, 9, 9, 10, 12, 8, 8, 10, 19, 7, 12, 14, 13, 9, 11, 8, 9, 14, 12, 11, 7, 11, 6, 12, 4, 11, 18, 12, 14, 15, 14, 14, 13, 8, 11, 8, 12, 5, 9, 9, 8, 12, 11, 7, 11, 5, 14, 7, 15, 9, 6, 12, 9, 10, 14, 10, 9, 8, 10, 11, 14, 9, 9, 7, 13, 11, 8, 5, 11, 15, 4, 8, 6, 5, 7, 8, 10, 13, 10, 12, 8, 10]
+degree sequence with laplace:  [-11, 46, -10, 29, 23, 24, -3, -11, 29, 3, -3, 28, 43, -4, -11, 13, -35, 15, 31, -4, 13, 7, 5, 26, -15, 13, 55, 95, 39, 22, 7, -24, -16, 58, 30, 18, 35, -6, -7, 13, -5, 11, -8, 8, 18, 21, -2, 31, 17, 54, -6, 55, -12, -11, 2, 44, 13, 7, -23, 16, 7, -2, 14, -39, 17, 28, 25, 3, -3, 20, 9, 46, 14, -42, -95, 29, 11, 33, 33, 3, 8, 19, 13, 17, 6, 15, 18, 22, 48, 23, 34, 13, 20, 27, 26, -21, 21, 9, -3, -5]
+degree sequence constrained:  [14, 14, 14, -27, 14, 14, 14, 14, 14, -4, 10, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 10, 14, -27, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, -27, 14, 14, 14, 14, 14, 14, 14, -4, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, -4, 14, 14, -27, 14, 14, -4, 14, 14, 14, 14, 14, 14, 14, 14]
+mse of degree sequence with laplace:  585.59
+mse of degree sequence with constraint laplace :  85.98
+clustering coefficient for graph generated with laplace:  0.183
+mse of pagerank with laplace:  9.490375832181684e-05
+clustering coefficient for graph generated with constraint laplace:  0.064
+mse of pagerank with constraint laplace:  2.7103081520656715e-05
+epsilon:  1
+degree sequence:  [10, 11, 8, 3, 11, 10, 8, 7, 9, 6, 6, 11, 10, 8, 14, 12, 10, 16, 11, 9, 9, 10, 12, 8, 8, 10, 19, 7, 12, 14, 13, 9, 11, 8, 9, 14, 12, 11, 7, 11, 6, 12, 4, 11, 18, 12, 14, 15, 14, 14, 13, 8, 11, 8, 12, 5, 9, 9, 8, 12, 11, 7, 11, 5, 14, 7, 15, 9, 6, 12, 9, 10, 14, 10, 9, 8, 10, 11, 14, 9, 9, 7, 13, 11, 8, 5, 11, 15, 4, 8, 6, 5, 7, 8, 10, 13, 10, 12, 8, 10]
+degree sequence with laplace:  [5, 10, 11, 3, 11, 9, 11, 6, 8, 5, 11, 16, 6, 8, 12, 14, 8, 15, 10, 8, 9, 11, 10, 15, 7, 10, 16, 6, 9, 13, 11, 9, 15, 6, 3, 14, 14, 12, 6, 10, 6, 13, 4, 12, 23, 12, 10, 15, 14, 15, 6, 6, 9, 6, 14, 9, 13, 7, 5, 18, 13, 7, 7, 6, 17, 6, 13, 9, 6, 12, 7, 15, 17, 10, 11, 7, 9, 10, 15, 9, 13, 5, 15, 10, 4, 5, 14, 16, 9, 9, 15, 2, 7, 8, 11, 13, 10, 22, 10, 7]
+degree sequence constrained:  [11, 11, 8, 2, 11, 11, 8, 8, 9, 3, 5, 11, 11, 8, 14, 12, 11, 16, 11, 9, 9, 11, 13, 9, 9, 11, 21, 8, 13, 14, 14, 9, 11, 9, 9, 14, 13, 11, 8, 11, 8, 13, 2, 11, 17, 13, 14, 16, 14, 14, 14, 9, 11, 9, 14, 2, 9, 9, 9, 14, 11, 8, 11, 2, 14, 8, 16, 9, 8, 14, 9, 11, 14, 11, 10, 9, 11, 11, 14, 11, 11, 8, 14, 11, 9, 2, 11, 16, 2, 9, 8, 2, 8, 9, 11, 14, 11, 14, 9, 11]
+mse of degree sequence with laplace:  8.23
+mse of degree sequence with constraint laplace :  21.69
+clustering coefficient for graph generated with laplace:  0.048
+mse of pagerank with laplace:  2.1521362955758218e-05
+clustering coefficient for graph generated with constraint laplace:  0.057
+mse of pagerank with constraint laplace:  1.3080287084385478e-05
+epsilon:  10
+degree sequence:  [10, 11, 8, 3, 11, 10, 8, 7, 9, 6, 6, 11, 10, 8, 14, 12, 10, 16, 11, 9, 9, 10, 12, 8, 8, 10, 19, 7, 12, 14, 13, 9, 11, 8, 9, 14, 12, 11, 7, 11, 6, 12, 4, 11, 18, 12, 14, 15, 14, 14, 13, 8, 11, 8, 12, 5, 9, 9, 8, 12, 11, 7, 11, 5, 14, 7, 15, 9, 6, 12, 9, 10, 14, 10, 9, 8, 10, 11, 14, 9, 9, 7, 13, 11, 8, 5, 11, 15, 4, 8, 6, 5, 7, 8, 10, 13, 10, 12, 8, 10]
+degree sequence with laplace:  [9, 11, 8, 3, 12, 10, 8, 7, 8, 6, 6, 11, 10, 8, 14, 12, 10, 16, 11, 9, 10, 10, 12, 8, 8, 11, 19, 7, 12, 14, 13, 9, 11, 8, 9, 14, 12, 11, 7, 11, 6, 12, 4, 11, 18, 12, 14, 15, 14, 14, 13, 8, 11, 8, 12, 5, 9, 9, 8, 12, 11, 7, 11, 5, 14, 7, 15, 9, 6, 12, 9, 10, 14, 10, 9, 8, 10, 11, 14, 9, 9, 7, 13, 11, 8, 5, 11, 15, 4, 8, 6, 5, 7, 8, 10, 13, 10, 12, 8, 10]
+degree sequence constrained:  [10, 11, 8, 3, 11, 10, 8, 7, 9, 6, 6, 11, 10, 8, 14, 12, 10, 16, 11, 9, 9, 10, 12, 8, 8, 10, 19, 7, 12, 14, 13, 9, 11, 8, 9, 14, 12, 11, 7, 11, 6, 12, 4, 11, 18, 12, 14, 15, 14, 14, 13, 8, 11, 8, 12, 5, 9, 9, 8, 12, 11, 7, 11, 5, 14, 7, 15, 9, 6, 12, 9, 10, 14, 10, 9, 8, 10, 11, 14, 9, 9, 7, 13, 11, 8, 5, 11, 15, 4, 8, 6, 5, 7, 8, 10, 13, 10, 12, 8, 10]
+mse of degree sequence with laplace:  0.05
+mse of degree sequence with constraint laplace :  19.26
+clustering coefficient for graph generated with laplace:  0.045
+mse of pagerank with laplace:  1.4216307756730596e-05
+clustering coefficient for graph generated with constraint laplace:  0.057
+mse of pagerank with constraint laplace:  1.1257701267428266e-05
+---------------------------------------------------------------------
+Elapsed time: 11.11920714378357 seconds
+number of edges generated:  999
+m:  1000
+n:  100
+average clustering coefficient for generated graph:  0.07999999999999999
+average clustering coefficient for original graph:  0.18299999999999997
+relative error rate for clustering coefficient:  0.5628415300546448
+mse for pagerank:  4.490394050612806e-06
+epsilon:  0.1
+degree sequence:  [23, 20, 23, 26, 19, 23, 16, 20, 15, 17, 19, 17, 22, 30, 22, 26, 25, 19, 18, 19, 18, 21, 11, 23, 22, 14, 22, 20, 21, 23, 22, 23, 18, 26, 23, 20, 19, 23, 17, 17, 20, 16, 21, 22, 17, 27, 20, 18, 29, 19, 19, 15, 17, 18, 22, 19, 30, 24, 15, 22, 14, 14, 13, 17, 28, 24, 23, 14, 20, 13, 18, 17, 20, 22, 19, 20, 18, 23, 12, 21, 20, 26, 17, 22, 24, 17, 15, 18, 17, 23, 22, 17, 26, 23, 20, 24, 15, 18, 20, 14]
+degree sequence with laplace:  [31, -18, 37, 20, 23, 34, 33, 28, 16, 49, 33, 4, -7, 40, 79, 43, 38, 6, 43, -69, 18, 35, 15, 3, 31, 13, 47, 24, 7, 68, 24, 15, 45, 11, 34, 6, 10, 42, 54, -38, 30, 15, 25, 23, 42, 94, 79, 23, 42, 29, -2, 49, -21, 1, 52, -16, 84, 25, 23, 19, 14, 25, -13, 33, -16, 0, -4, -15, 32, 61, 13, -51, 65, -6, 34, 11, -18, 25, 10, 8, 24, -7, 19, 66, 3, -6, 6, 20, 8, 8, 31, -13, 13, 9, 15, 23, -38, 27, 46, -5]
+degree sequence constrained:  [22, 22, 22, 30, 22, 22, 2, 22, 2, 2, 22, 2, 22, 30, 22, 30, 30, 22, 22, 22, 22, 22, -5, 22, 22, -5, 22, 22, 22, 22, 22, 27, 22, 30, 27, 22, 22, 27, 2, 11, 22, 2, 22, 22, 11, 30, 22, 22, 30, 22, 22, 2, 14, 22, 22, 22, 59, 30, 2, 22, 2, 2, -5, 14, 30, 30, 30, 2, 22, -5, 22, 22, 22, 22, 22, 22, 22, 30, -5, 22, 22, 30, 22, 22, 30, 22, 2, 22, 22, 30, 22, 22, 30, 30, 22, 30, 2, 22, 22, 2]
+mse of degree sequence with laplace:  705.14
+mse of degree sequence with constraint laplace :  130.75
+clustering coefficient for graph generated with laplace:  0.289
+mse of pagerank with laplace:  5.972106661630212e-05
+clustering coefficient for graph generated with constraint laplace:  0.127
+mse of pagerank with constraint laplace:  1.3878338412115364e-05
+epsilon:  1
+degree sequence:  [23, 20, 23, 26, 19, 23, 16, 20, 15, 17, 19, 17, 22, 30, 22, 26, 25, 19, 18, 19, 18, 21, 11, 23, 22, 14, 22, 20, 21, 23, 22, 23, 18, 26, 23, 20, 19, 23, 17, 17, 20, 16, 21, 22, 17, 27, 20, 18, 29, 19, 19, 15, 17, 18, 22, 19, 30, 24, 15, 22, 14, 14, 13, 17, 28, 24, 23, 14, 20, 13, 18, 17, 20, 22, 19, 20, 18, 23, 12, 21, 20, 26, 17, 22, 24, 17, 15, 18, 17, 23, 22, 17, 26, 23, 20, 24, 15, 18, 20, 14]
+degree sequence with laplace:  [26, 21, 26, 27, 19, 23, 16, 20, 15, 17, 18, 17, 20, 30, 17, 25, 26, 17, 17, 13, 13, 16, 11, 22, 24, 15, 23, 20, 21, 24, 28, 23, 20, 25, 16, 18, 16, 23, 17, 13, 20, 16, 22, 27, 19, 25, 18, 7, 28, 18, 15, 12, 16, 17, 22, 20, 30, 24, 16, 25, 15, 15, 16, 13, 33, 20, 19, 14, 21, 13, 15, 18, 17, 23, 18, 18, 18, 18, 13, 25, 15, 23, 18, 25, 23, 25, 17, 20, 16, 19, 23, 22, 27, 22, 20, 23, 15, 18, 22, 11]
+degree sequence constrained:  [21, 19, 21, 27, 19, 22, 17, 19, 13, 17, 19, 17, 21, 31, 21, 27, 27, 19, 18, 19, 19, 21, 10, 23, 21, 13, 21, 19, 21, 23, 21, 23, 19, 27, 23, 19, 19, 23, 17, 17, 19, 17, 21, 21, 17, 27, 19, 19, 31, 19, 19, 13, 17, 19, 21, 19, 31, 23, 13, 21, 13, 13, 13, 17, 27, 24, 23, 13, 19, 13, 19, 18, 19, 21, 19, 19, 19, 23, 13, 21, 19, 27, 18, 21, 24, 18, 17, 19, 18, 23, 21, 18, 27, 23, 20, 24, 17, 19, 20, 13]
+mse of degree sequence with laplace:  7.97
+mse of degree sequence with constraint laplace :  35.13
+clustering coefficient for graph generated with laplace:  0.084
+mse of pagerank with laplace:  6.275579102032571e-06
+clustering coefficient for graph generated with constraint laplace:  0.094
+mse of pagerank with constraint laplace:  6.27840539858266e-06
+epsilon:  10
+degree sequence:  [23, 20, 23, 26, 19, 23, 16, 20, 15, 17, 19, 17, 22, 30, 22, 26, 25, 19, 18, 19, 18, 21, 11, 23, 22, 14, 22, 20, 21, 23, 22, 23, 18, 26, 23, 20, 19, 23, 17, 17, 20, 16, 21, 22, 17, 27, 20, 18, 29, 19, 19, 15, 17, 18, 22, 19, 30, 24, 15, 22, 14, 14, 13, 17, 28, 24, 23, 14, 20, 13, 18, 17, 20, 22, 19, 20, 18, 23, 12, 21, 20, 26, 17, 22, 24, 17, 15, 18, 17, 23, 22, 17, 26, 23, 20, 24, 15, 18, 20, 14]
+degree sequence with laplace:  [23, 21, 23, 26, 19, 23, 16, 20, 15, 17, 19, 17, 22, 30, 22, 26, 25, 19, 18, 19, 18, 21, 11, 23, 22, 14, 22, 20, 21, 23, 22, 23, 18, 26, 23, 20, 20, 23, 17, 17, 20, 16, 21, 22, 17, 27, 20, 18, 29, 19, 19, 15, 17, 18, 22, 19, 30, 24, 15, 22, 14, 14, 14, 17, 28, 24, 23, 14, 20, 13, 18, 17, 20, 22, 19, 20, 18, 23, 12, 21, 20, 26, 17, 22, 24, 17, 15, 18, 17, 23, 22, 17, 26, 23, 20, 24, 15, 18, 20, 13]
+degree sequence constrained:  [23, 20, 23, 26, 19, 23, 16, 20, 15, 17, 19, 17, 22, 30, 22, 26, 25, 19, 18, 19, 18, 21, 11, 23, 22, 14, 22, 20, 21, 23, 22, 23, 18, 26, 23, 20, 19, 23, 17, 17, 20, 16, 21, 22, 17, 27, 20, 18, 29, 19, 19, 15, 17, 18, 22, 19, 30, 24, 15, 22, 14, 14, 13, 17, 29, 24, 23, 14, 20, 13, 18, 17, 20, 22, 19, 20, 18, 23, 12, 21, 20, 26, 17, 22, 24, 17, 15, 18, 17, 23, 22, 17, 26, 23, 20, 24, 15, 18, 20, 14]
+mse of degree sequence with laplace:  0.04
+mse of degree sequence with constraint laplace :  35.55
+clustering coefficient for graph generated with laplace:  0.094
+mse of pagerank with laplace:  4.311568361932124e-06
+clustering coefficient for graph generated with constraint laplace:  0.087
+mse of pagerank with constraint laplace:  4.37822012714748e-06
+---------------------------------------------------------------------
+Elapsed time: 33.18524408340454 seconds
+number of edges generated:  297
+m:  300
+n:  200
+average clustering coefficient for generated graph:  0.0055
+average clustering coefficient for original graph:  0.028500000000000004
+relative error rate for clustering coefficient:  0.8070175438596492
+mse for pagerank:  1.0403145242253214e-05
+epsilon:  0.1
+degree sequence:  [1, 2, 7, 2, 1, 1, 4, 3, 2, 6, 4, 4, 5, 1, 3, 2, 2, 3, 0, 4, 3, 4, 4, 5, 1, 1, 3, 5, 1, 1, 2, 2, 0, 2, 3, 2, 2, 2, 2, 2, 4, 2, 6, 6, 1, 3, 3, 3, 2, 4, 4, 3, 3, 3, 6, 5, 4, 2, 0, 4, 2, 4, 1, 5, 3, 3, 5, 3, 3, 4, 2, 5, 4, 3, 5, 8, 3, 5, 2, 2, 2, 3, 4, 3, 2, 4, 3, 3, 2, 1, 4, 3, 4, 1, 3, 3, 5, 5, 1, 3, 5, 1, 4, 1, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 1, 4, 2, 1, 5, 4, 3, 6, 5, 5, 4, 4, 2, 4, 3, 1, 6, 0, 3, 1, 2, 3, 5, 0, 2, 3, 4, 2, 2, 4, 4, 6, 5, 3, 3, 3, 5, 1, 6, 2, 3, 4, 2, 2, 3, 1, 2, 2, 4, 3, 2, 4, 2, 6, 4, 0, 7, 5, 3, 2, 6, 2, 1, 2, 4, 0, 0, 2, 1, 3, 4, 0, 4, 4, 3, 0, 7, 4, 3, 3, 4, 3, 3, 2, 5, 2]
+degree sequence with laplace:  [-12, 13, -20, -3, 2, -9, -2, -12, -4, -4, 3, -27, -46, -6, 6, 16, -5, -12, -73, 11, 32, -31, 17, 13, -13, -81, -9, 12, -7, -27, 16, 15, 13, -9, -25, 2, -7, -1, 17, 39, 12, -40, -15, 10, 2, 26, -12, -28, 0, 2, 16, -16, -3, 10, 29, -43, 18, -4, -68, 3, -5, 1, -42, -3, 4, 8, 18, 3, -17, -12, -1, -5, 7, -55, 5, 33, 10, 21, 12, -24, -33, -14, 24, 9, -1, -3, -14, -30, -3, -35, -31, -7, 15, 20, -27, -37, 12, -2, 33, -28, -75, 11, -9, 7, 20, 59, -8, 22, 14, 36, -5, -6, 39, 2, -64, 10, 47, -54, 0, -33, -4, 15, 34, -38, -8, 4, 24, 40, 11, 48, 10, -15, -15, -6, -3, -7, -6, 10, -28, -35, 1, -10, -7, -14, 6, -3, 12, 37, 31, 4, 1, 10, -60, 13, -3, -57, 12, -20, 76, 13, -7, 6, 28, -12, -2, -6, -19, -1, 18, -34, -26, -19, 13, -5, 15, 8, -2, -56, 22, -28, -23, -1, 48, -100, -4, -15, 56, 12, 10, 37, 33, 14, 5, 3, 6, 54, 125, -35, -7, -14]
+degree sequence constrained:  [0, 0, 10, 0, 0, 0, 0, 0, 0, 9, 0, 0, 6, 0, 0, 0, 0, 0, -22, 0, 0, 0, 0, 6, 0, 0, 0, 6, 0, 0, 0, 0, -22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 6, 3, 0, -22, 3, 0, 3, 0, 6, 0, 0, 6, 0, 0, 3, 0, 6, 3, 0, 6, 10, 0, 6, 0, 0, 0, 0, 6, 0, 0, 6, 0, 0, 0, 0, 6, 0, 6, 0, 0, 0, 6, 6, 0, 0, 6, 0, 6, 0, 6, 0, 0, 0, 0, 0, 0, 6, 6, 0, 0, 6, 0, 0, 6, 6, 0, 9, 6, 9, 6, 6, 0, 6, 0, 0, 9, 0, 0, 0, 0, 0, 9, 0, 0, 0, 6, 0, 0, 6, 6, 9, 9, 0, 0, 0, 9, 0, 9, 0, 0, 6, 0, 0, 0, 0, 0, 0, 6, 0, 0, 6, 0, 9, 6, 0, 10, 9, 0, 0, 10, 0, 0, 0, 6, 0, 0, 0, 0, 0, 6, 0, 6, 6, 0, 0, 10, 6, 0, 0, 6, 0, 0, 0, 9, 0]
+mse of degree sequence with laplace:  771.98
+mse of degree sequence with constraint laplace :  20.87
+clustering coefficient for graph generated with laplace:  0.0
+mse of pagerank with laplace:  4.722637048094873e-06
+clustering coefficient for graph generated with constraint laplace:  0.013
+mse of pagerank with constraint laplace:  2.773788040909532e-05
+epsilon:  1
+degree sequence:  [1, 2, 7, 2, 1, 1, 4, 3, 2, 6, 4, 4, 5, 1, 3, 2, 2, 3, 0, 4, 3, 4, 4, 5, 1, 1, 3, 5, 1, 1, 2, 2, 0, 2, 3, 2, 2, 2, 2, 2, 4, 2, 6, 6, 1, 3, 3, 3, 2, 4, 4, 3, 3, 3, 6, 5, 4, 2, 0, 4, 2, 4, 1, 5, 3, 3, 5, 3, 3, 4, 2, 5, 4, 3, 5, 8, 3, 5, 2, 2, 2, 3, 4, 3, 2, 4, 3, 3, 2, 1, 4, 3, 4, 1, 3, 3, 5, 5, 1, 3, 5, 1, 4, 1, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 1, 4, 2, 1, 5, 4, 3, 6, 5, 5, 4, 4, 2, 4, 3, 1, 6, 0, 3, 1, 2, 3, 5, 0, 2, 3, 4, 2, 2, 4, 4, 6, 5, 3, 3, 3, 5, 1, 6, 2, 3, 4, 2, 2, 3, 1, 2, 2, 4, 3, 2, 4, 2, 6, 4, 0, 7, 5, 3, 2, 6, 2, 1, 2, 4, 0, 0, 2, 1, 3, 4, 0, 4, 4, 3, 0, 7, 4, 3, 3, 4, 3, 3, 2, 5, 2]
+degree sequence with laplace:  [3, 1, 10, 1, 0, -3, 4, 3, 0, 5, 4, 4, 5, 3, 3, 3, 2, 7, -2, 2, -2, 8, 1, 6, -2, 2, 3, 4, 1, 0, 0, 1, -4, -1, 3, 6, 4, 1, -1, 1, 4, -2, 7, 7, -2, 3, 0, 3, -6, 5, 7, 2, 4, 4, 5, 4, -3, 0, 0, 2, 2, 6, -6, 6, -5, 2, 4, 8, 3, 6, 1, 3, 6, 10, 5, 10, 2, 4, -1, 5, 5, 3, 4, 1, 0, 5, 3, 7, 1, 1, 10, 2, 3, -4, 8, 2, -2, 4, 0, 3, 7, 3, 1, 4, 4, 2, -8, -1, -2, 1, 6, 3, 5, 4, 3, 3, 2, 0, 5, 13, 2, 6, 6, 6, 1, 7, 5, 3, 2, 0, 7, 0, 3, 0, -1, 2, 4, 1, 4, 6, 4, 0, 3, -1, 2, 0, 5, 3, 5, 5, 4, 4, 6, 3, 2, 6, 0, 4, 3, 1, 3, -1, 2, 5, 2, 3, 0, 5, 1, 0, 7, 7, -2, 7, -1, 0, 1, 6, 8, 3, -1, 3, 3, 1, 1, 1, 2, 4, 5, 2, 5, -2, 5, 5, 7, 5, 6, 0, 6, -2]
+degree sequence constrained:  [0, 1, 6, 1, 1, 1, 4, 4, 1, 5, 4, 4, 4, 1, 4, 1, 1, 4, 0, 4, 4, 4, 4, 4, 1, 1, 4, 4, 1, 1, 1, 1, 0, 1, 4, 1, 1, 1, 1, 1, 4, 1, 6, 6, 1, 4, 4, 4, 2, 4, 4, 4, 4, 4, 6, 4, 4, 2, 0, 4, 2, 4, 1, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 10, 4, 4, 2, 2, 2, 4, 4, 4, 2, 4, 4, 4, 2, 1, 4, 4, 4, 1, 4, 4, 4, 4, 1, 4, 4, 1, 4, 1, 4, 2, 1, 1, 2, 1, 4, 4, 4, 1, 1, 4, 2, 1, 4, 4, 4, 6, 4, 5, 4, 4, 2, 4, 4, 1, 6, 0, 4, 1, 2, 4, 5, 0, 2, 4, 4, 2, 2, 4, 4, 6, 5, 4, 4, 4, 5, 1, 6, 2, 4, 4, 2, 2, 4, 1, 2, 2, 4, 4, 2, 4, 2, 6, 4, 0, 6, 5, 4, 2, 6, 2, 1, 2, 4, 0, 0, 2, 1, 4, 4, 0, 4, 4, 4, 0, 8, 4, 4, 4, 4, 4, 4, 2, 5, 2]
+mse of degree sequence with laplace:  7.335
+mse of degree sequence with constraint laplace :  4.955
+clustering coefficient for graph generated with laplace:  0.004
+mse of pagerank with laplace:  1.9437414937293252e-05
+clustering coefficient for graph generated with constraint laplace:  0.001
+mse of pagerank with constraint laplace:  1.4054812464290775e-05
+epsilon:  10
+degree sequence:  [1, 2, 7, 2, 1, 1, 4, 3, 2, 6, 4, 4, 5, 1, 3, 2, 2, 3, 0, 4, 3, 4, 4, 5, 1, 1, 3, 5, 1, 1, 2, 2, 0, 2, 3, 2, 2, 2, 2, 2, 4, 2, 6, 6, 1, 3, 3, 3, 2, 4, 4, 3, 3, 3, 6, 5, 4, 2, 0, 4, 2, 4, 1, 5, 3, 3, 5, 3, 3, 4, 2, 5, 4, 3, 5, 8, 3, 5, 2, 2, 2, 3, 4, 3, 2, 4, 3, 3, 2, 1, 4, 3, 4, 1, 3, 3, 5, 5, 1, 3, 5, 1, 4, 1, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 1, 4, 2, 1, 5, 4, 3, 6, 5, 5, 4, 4, 2, 4, 3, 1, 6, 0, 3, 1, 2, 3, 5, 0, 2, 3, 4, 2, 2, 4, 4, 6, 5, 3, 3, 3, 5, 1, 6, 2, 3, 4, 2, 2, 3, 1, 2, 2, 4, 3, 2, 4, 2, 6, 4, 0, 7, 5, 3, 2, 6, 2, 1, 2, 4, 0, 0, 2, 1, 3, 4, 0, 4, 4, 3, 0, 7, 4, 3, 3, 4, 3, 3, 2, 5, 2]
+degree sequence with laplace:  [1, 2, 7, 2, 1, 1, 4, 3, 2, 6, 4, 4, 5, 1, 3, 2, 2, 3, -1, 5, 2, 4, 4, 5, 1, 1, 3, 5, 0, 1, 2, 2, 0, 2, 3, 2, 1, 3, 1, 2, 4, 2, 6, 6, 0, 3, 4, 3, 1, 4, 4, 3, 4, 3, 6, 5, 4, 2, 0, 4, 2, 4, 1, 5, 3, 3, 5, 3, 3, 4, 2, 5, 4, 3, 5, 8, 2, 5, 2, 2, 2, 3, 5, 3, 1, 4, 3, 3, 1, 1, 4, 3, 4, 2, 3, 3, 5, 5, 1, 3, 5, 1, 4, 1, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 1, 4, 2, 1, 5, 4, 4, 6, 5, 5, 4, 4, 2, 3, 3, 1, 6, 0, 3, 2, 2, 3, 5, 0, 2, 3, 4, 2, 1, 4, 4, 6, 5, 3, 3, 3, 5, 1, 6, 2, 3, 4, 2, 1, 2, 1, 2, 2, 4, 2, 2, 5, 2, 6, 4, 0, 7, 5, 3, 2, 6, 2, 1, 2, 4, 0, 1, 2, 1, 3, 4, 0, 4, 4, 3, 0, 7, 4, 3, 3, 5, 3, 3, 2, 5, 2]
+degree sequence constrained:  [1, 2, 7, 2, 1, 1, 4, 3, 2, 6, 4, 4, 5, 1, 3, 2, 2, 3, 0, 4, 3, 4, 4, 5, 1, 1, 3, 5, 1, 1, 2, 2, 0, 2, 3, 2, 2, 2, 2, 2, 4, 2, 6, 6, 1, 3, 3, 3, 2, 4, 4, 3, 3, 3, 6, 5, 4, 2, 0, 4, 2, 4, 1, 5, 3, 3, 5, 3, 3, 4, 2, 5, 4, 3, 5, 8, 3, 5, 2, 2, 2, 3, 4, 3, 2, 4, 3, 3, 2, 1, 4, 3, 4, 1, 3, 3, 5, 5, 1, 3, 5, 1, 4, 1, 4, 2, 1, 1, 2, 1, 3, 4, 5, 1, 1, 4, 2, 1, 5, 4, 3, 6, 5, 5, 4, 4, 2, 4, 3, 1, 6, 0, 3, 1, 2, 3, 5, 0, 2, 3, 4, 2, 2, 4, 4, 6, 5, 3, 3, 3, 5, 1, 6, 2, 3, 4, 2, 2, 3, 1, 2, 2, 4, 3, 2, 4, 2, 6, 4, 0, 7, 5, 3, 2, 6, 2, 1, 2, 4, 0, 0, 2, 1, 3, 4, 0, 4, 4, 3, 0, 7, 4, 3, 3, 4, 3, 3, 2, 5, 2]
+mse of degree sequence with laplace:  0.13
+mse of degree sequence with constraint laplace :  5.17
+clustering coefficient for graph generated with laplace:  0.0
+mse of pagerank with laplace:  1.3306174961542153e-05
+clustering coefficient for graph generated with constraint laplace:  0.003
+mse of pagerank with constraint laplace:  1.2507194758886545e-05
+---------------------------------------------------------------------
+Elapsed time: 31.90251135826111 seconds
+number of edges generated:  398
+m:  400
+n:  200
+average clustering coefficient for generated graph:  0.010499999999999999
+average clustering coefficient for original graph:  0.0205
+relative error rate for clustering coefficient:  0.4878048780487806
+mse for pagerank:  9.572372262770091e-06
+epsilon:  0.1
+degree sequence:  [5, 2, 1, 1, 3, 3, 9, 2, 5, 2, 7, 7, 5, 2, 6, 4, 2, 4, 6, 3, 3, 3, 3, 9, 4, 1, 5, 3, 3, 2, 7, 6, 2, 5, 6, 5, 7, 3, 4, 8, 1, 1, 5, 5, 7, 4, 3, 1, 4, 4, 3, 6, 4, 4, 0, 4, 2, 2, 7, 3, 2, 6, 3, 4, 7, 2, 2, 3, 7, 5, 4, 7, 1, 2, 4, 8, 1, 4, 2, 4, 2, 6, 2, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 1, 4, 5, 5, 7, 2, 0, 9, 6, 2, 3, 7, 4, 6, 3, 4, 2, 2, 3, 6, 4, 5, 5, 6, 2, 4, 2, 5, 1, 9, 7, 6, 5, 6, 3, 7, 3, 7, 4, 2, 2, 2, 6, 2, 3, 3, 3, 5, 2, 1, 4, 3, 4, 5, 5, 4, 6, 2, 8, 2, 4, 4, 1, 4, 1, 1, 2, 1, 7, 4, 4, 3, 4, 3, 3, 5, 1, 1, 3, 7, 7, 3, 6, 3, 3, 11, 2, 5, 4, 7, 9, 3, 6, 1, 5, 3, 4, 3, 4, 5, 4, 1, 4, 4, 4, 6]
+degree sequence with laplace:  [-1, 92, 7, 10, -21, -18, 33, -44, -7, 22, 47, 19, 32, 0, -3, 18, -26, -103, 3, -4, 40, 51, -34, 42, 3, -5, 19, 10, -19, -53, 77, 8, -7, 21, -40, 15, 23, 8, 8, -26, -33, 2, 31, -37, -43, 19, -2, -84, 26, 4, 3, -14, -3, -14, -35, 13, 24, 2, -39, 8, 1, 12, 28, -69, 9, -111, 14, 38, 55, 106, 48, 12, 1, -3, 51, -40, -26, 113, -16, -12, -23, 6, -1, -10, -22, 10, 1, 21, 8, -10, -29, 25, -18, -43, -22, 14, 3, 5, 23, 0, 51, 26, 0, -20, 2, 4, 9, -4, 3, -32, 83, 13, 17, -6, -36, 3, 29, 7, 7, 1, -9, -71, 13, 15, -6, 68, 64, -5, 5, -33, 8, 71, -2, -10, 6, -3, -25, -13, -29, -5, -141, 0, 70, -4, 14, -59, -1, -9, 40, 39, 3, -28, 4, 15, 0, 30, 8, 13, -10, -8, 61, 11, 60, -5, 14, 6, 39, 32, 2, 8, -1, 7, 13, 13, -5, 47, -38, 5, -10, 25, 34, 56, 22, 17, 6, -30, 30, -22, -14, 6, 30, 8, 26, 29, 0, 30, 9, 9, -2, -6]
+degree sequence constrained:  [7, -9, -13, -13, 5, 5, 9, -9, 7, -9, 9, 9, 7, -9, 9, 5, 5, 5, 9, 5, 5, 5, 5, 9, 5, -13, 7, 5, 5, 5, 9, 9, 5, 7, 9, 7, 9, 5, 5, 9, -13, -13, 7, 7, 9, 5, 5, -13, 5, 5, 5, 9, 5, 5, -19, 5, 5, 5, 9, 5, 5, 9, 5, 5, 9, 5, 5, 5, 9, 7, 5, 9, -13, 5, 5, 9, -13, 5, 5, 5, 5, 9, 5, 7, 7, 5, 7, 5, 5, 5, 7, 7, 7, 9, -13, 5, 9, 9, 9, 5, -13, 20, 9, 5, 5, 9, 5, 9, 5, 5, 5, 5, 5, 9, 5, 9, 9, 9, 5, 5, 5, 9, -13, 20, 9, 9, 9, 9, 5, 9, 5, 9, 5, 5, 5, 5, 9, 5, 5, 5, 5, 9, 5, -13, 5, 5, 5, 9, 9, 5, 9, 5, 9, 5, 5, 5, -13, 5, -13, -13, 5, -13, 9, 5, 5, 5, 7, 5, 5, 9, -9, -9, 5, 9, 9, 5, 9, 5, 5, 20, 5, 9, 7, 9, 20, 5, 9, -9, 9, 5, 7, 5, 7, 9, 7, -9, 7, 7, 7, 9]
+mse of degree sequence with laplace:  1088.99
+mse of degree sequence with constraint laplace :  47.25
+clustering coefficient for graph generated with laplace:  0.114
+mse of pagerank with laplace:  4.685294510523852e-05
+clustering coefficient for graph generated with constraint laplace:  0.014
+mse of pagerank with constraint laplace:  1.944318556077006e-05
+epsilon:  1
+degree sequence:  [5, 2, 1, 1, 3, 3, 9, 2, 5, 2, 7, 7, 5, 2, 6, 4, 2, 4, 6, 3, 3, 3, 3, 9, 4, 1, 5, 3, 3, 2, 7, 6, 2, 5, 6, 5, 7, 3, 4, 8, 1, 1, 5, 5, 7, 4, 3, 1, 4, 4, 3, 6, 4, 4, 0, 4, 2, 2, 7, 3, 2, 6, 3, 4, 7, 2, 2, 3, 7, 5, 4, 7, 1, 2, 4, 8, 1, 4, 2, 4, 2, 6, 2, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 1, 4, 5, 5, 7, 2, 0, 9, 6, 2, 3, 7, 4, 6, 3, 4, 2, 2, 3, 6, 4, 5, 5, 6, 2, 4, 2, 5, 1, 9, 7, 6, 5, 6, 3, 7, 3, 7, 4, 2, 2, 2, 6, 2, 3, 3, 3, 5, 2, 1, 4, 3, 4, 5, 5, 4, 6, 2, 8, 2, 4, 4, 1, 4, 1, 1, 2, 1, 7, 4, 4, 3, 4, 3, 3, 5, 1, 1, 3, 7, 7, 3, 6, 3, 3, 11, 2, 5, 4, 7, 9, 3, 6, 1, 5, 3, 4, 3, 4, 5, 4, 1, 4, 4, 4, 6]
+degree sequence with laplace:  [0, 2, 1, 1, -1, 3, 8, -1, 5, 0, 5, 6, 5, 3, 7, 4, 3, 5, 3, 4, 2, 2, 6, 14, 9, 3, 3, 3, 7, 2, 12, 6, 1, 4, 0, 11, 3, 2, 3, 14, 5, 1, 9, 5, 7, 5, -2, 4, 6, 6, 3, 3, 4, 4, -1, 3, -9, 9, 4, 4, 2, 6, 0, -2, 6, 0, 7, 3, 6, 6, 10, 10, -3, 3, 6, 9, -3, 5, 1, 4, 2, 5, 4, 9, 4, 3, 10, 2, 3, 3, 2, 4, 12, 11, 0, -1, 4, 8, 7, 1, -3, 8, 8, 1, 5, 2, 5, 5, 0, 4, 3, 0, 2, 8, 4, 5, 6, 2, 1, 1, 4, 6, 3, 9, 10, 4, 5, 4, 5, 5, 4, 8, -1, -1, 2, 2, 5, -6, 7, 3, 4, 4, 4, 2, 7, 8, 5, 2, 9, 3, 9, 0, 9, 4, 3, 6, 0, 14, -2, 2, 2, 0, 11, 4, 5, 5, 1, 4, -1, 3, -9, 10, 2, 9, 7, 3, 8, 3, 6, 14, 7, 14, 6, 8, 9, 9, 6, 0, -1, 4, 6, 3, 2, 13, 4, 3, 1, -4, 1, 13]
+degree sequence constrained:  [5, 1, 0, 0, 2, 2, 9, 1, 5, 1, 8, 8, 5, 1, 5, 3, 1, 3, 5, 3, 3, 3, 3, 9, 3, 0, 5, 3, 3, 1, 8, 5, 1, 5, 5, 5, 8, 3, 3, 8, 0, 0, 5, 5, 8, 3, 3, 0, 3, 3, 3, 5, 3, 3, 0, 3, 1, 1, 8, 3, 1, 5, 3, 3, 8, 1, 1, 3, 8, 5, 3, 8, 0, 1, 3, 8, 0, 3, 1, 3, 1, 5, 1, 5, 5, 3, 5, 1, 3, 3, 5, 5, 5, 5, 0, 3, 5, 5, 8, 1, 0, 9, 5, 1, 3, 8, 3, 5, 3, 3, 1, 2, 3, 5, 3, 5, 5, 5, 2, 3, 2, 5, 0, 12, 8, 5, 5, 5, 3, 8, 3, 8, 3, 2, 2, 2, 5, 2, 3, 3, 3, 5, 2, 0, 3, 3, 3, 5, 5, 3, 7, 2, 9, 2, 3, 3, 0, 3, 0, 0, 2, 1, 8, 3, 3, 3, 3, 3, 3, 5, 1, 1, 3, 8, 8, 3, 7, 3, 3, 15, 2, 5, 3, 8, 12, 3, 8, 1, 5, 3, 3, 3, 3, 5, 3, 1, 3, 3, 3, 8]
+mse of degree sequence with laplace:  10.09
+mse of degree sequence with constraint laplace :  10.21
+clustering coefficient for graph generated with laplace:  0.011
+mse of pagerank with laplace:  1.7477702528204e-05
+clustering coefficient for graph generated with constraint laplace:  0.013
+mse of pagerank with constraint laplace:  1.1651602427269698e-05
+epsilon:  10
+degree sequence:  [5, 2, 1, 1, 3, 3, 9, 2, 5, 2, 7, 7, 5, 2, 6, 4, 2, 4, 6, 3, 3, 3, 3, 9, 4, 1, 5, 3, 3, 2, 7, 6, 2, 5, 6, 5, 7, 3, 4, 8, 1, 1, 5, 5, 7, 4, 3, 1, 4, 4, 3, 6, 4, 4, 0, 4, 2, 2, 7, 3, 2, 6, 3, 4, 7, 2, 2, 3, 7, 5, 4, 7, 1, 2, 4, 8, 1, 4, 2, 4, 2, 6, 2, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 1, 4, 5, 5, 7, 2, 0, 9, 6, 2, 3, 7, 4, 6, 3, 4, 2, 2, 3, 6, 4, 5, 5, 6, 2, 4, 2, 5, 1, 9, 7, 6, 5, 6, 3, 7, 3, 7, 4, 2, 2, 2, 6, 2, 3, 3, 3, 5, 2, 1, 4, 3, 4, 5, 5, 4, 6, 2, 8, 2, 4, 4, 1, 4, 1, 1, 2, 1, 7, 4, 4, 3, 4, 3, 3, 5, 1, 1, 3, 7, 7, 3, 6, 3, 3, 11, 2, 5, 4, 7, 9, 3, 6, 1, 5, 3, 4, 3, 4, 5, 4, 1, 4, 4, 4, 6]
+degree sequence with laplace:  [4, 2, 1, 1, 2, 3, 9, 2, 5, 2, 7, 7, 5, 2, 6, 4, 2, 4, 6, 3, 3, 3, 3, 9, 4, 1, 5, 3, 3, 2, 7, 6, 2, 6, 6, 5, 7, 3, 4, 8, 1, 1, 5, 5, 7, 4, 3, 1, 4, 4, 3, 6, 4, 4, 0, 4, 2, 2, 7, 3, 2, 6, 4, 4, 7, 2, 2, 3, 7, 5, 4, 7, 1, 2, 4, 8, 1, 4, 2, 4, 2, 6, 2, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 1, 4, 5, 5, 7, 2, 0, 9, 6, 2, 3, 7, 4, 6, 3, 4, 2, 2, 3, 6, 4, 5, 5, 7, 2, 4, 2, 5, 1, 9, 7, 6, 5, 6, 2, 6, 3, 7, 4, 2, 2, 2, 5, 2, 3, 3, 3, 5, 2, 1, 3, 3, 4, 5, 5, 4, 6, 2, 8, 2, 4, 4, 1, 4, 1, 1, 2, 1, 7, 4, 4, 3, 4, 3, 3, 5, 1, 1, 3, 7, 7, 3, 6, 3, 3, 11, 2, 5, 4, 7, 9, 3, 6, 1, 5, 3, 4, 3, 4, 5, 4, 1, 4, 4, 4, 6]
+degree sequence constrained:  [5, 2, 1, 1, 3, 3, 9, 2, 5, 2, 7, 7, 5, 2, 6, 4, 2, 4, 6, 3, 3, 3, 3, 9, 4, 1, 5, 3, 3, 2, 7, 6, 2, 5, 6, 5, 7, 3, 4, 8, 1, 1, 5, 5, 7, 4, 3, 1, 4, 4, 3, 6, 4, 4, 0, 4, 2, 2, 7, 3, 2, 6, 3, 4, 7, 2, 2, 3, 7, 5, 4, 7, 1, 2, 4, 8, 1, 4, 2, 4, 2, 6, 2, 5, 5, 3, 5, 2, 4, 4, 5, 5, 5, 5, 1, 4, 5, 5, 7, 2, 0, 9, 6, 2, 3, 7, 4, 6, 3, 4, 2, 2, 3, 6, 4, 5, 5, 6, 2, 4, 2, 5, 1, 9, 7, 6, 5, 6, 3, 7, 3, 7, 4, 2, 2, 2, 6, 2, 3, 3, 3, 5, 2, 1, 4, 3, 4, 5, 5, 4, 6, 2, 8, 2, 4, 4, 1, 4, 1, 1, 2, 1, 7, 4, 4, 3, 4, 3, 3, 5, 1, 1, 3, 7, 7, 3, 6, 3, 3, 11, 2, 5, 4, 8, 9, 3, 6, 1, 5, 3, 4, 3, 4, 5, 4, 1, 4, 4, 4, 6]
+mse of degree sequence with laplace:  0.045
+mse of degree sequence with constraint laplace :  8.405
+clustering coefficient for graph generated with laplace:  0.006
+mse of pagerank with laplace:  1.1352037845588233e-05
+clustering coefficient for graph generated with constraint laplace:  0.004
+mse of pagerank with constraint laplace:  1.6205812085513647e-05
+---------------------------------------------------------------------
+Elapsed time: 33.57067561149597 seconds
+number of edges generated:  995
+m:  1000
+n:  200
+average clustering coefficient for generated graph:  0.022000000000000002
+average clustering coefficient for original graph:  0.041499999999999995
+relative error rate for clustering coefficient:  0.46987951807228906
+mse for pagerank:  3.3452336231766626e-06
+epsilon:  0.1
+degree sequence:  [10, 4, 7, 9, 9, 9, 8, 9, 11, 6, 10, 7, 13, 11, 10, 11, 13, 10, 17, 11, 12, 9, 8, 8, 11, 12, 3, 14, 8, 14, 15, 8, 11, 5, 12, 8, 13, 8, 7, 13, 9, 10, 4, 11, 7, 12, 7, 11, 5, 14, 7, 11, 13, 18, 13, 8, 16, 8, 14, 11, 16, 12, 11, 5, 12, 10, 7, 13, 7, 9, 16, 9, 7, 9, 11, 8, 11, 18, 12, 13, 15, 15, 11, 8, 11, 10, 11, 12, 11, 9, 9, 4, 14, 8, 9, 9, 7, 5, 9, 10, 13, 12, 14, 7, 6, 9, 5, 10, 8, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 7, 9, 7, 5, 15, 12, 13, 8, 8, 11, 12, 4, 5, 9, 15, 9, 6, 7, 8, 10, 15, 18, 9, 9, 9, 14, 10, 13, 10, 12, 7, 8, 6, 9, 10, 11, 17, 7, 12, 9, 10, 3, 10, 11, 10, 16, 15, 5, 11, 8, 13, 11, 9, 8, 11, 10, 10, 11, 11, 9, 11, 7, 8, 11, 6, 12, 10, 9, 6, 10, 11, 19, 13, 10, 11, 7, 13, 7, 7, 10]
+degree sequence with laplace:  [17, 35, 55, -46, 71, 30, -18, 49, 25, 59, 26, 45, 17, 12, -9, 81, -27, 54, 10, 15, 15, -16, -12, 27, -12, 17, 15, -8, 4, 70, 24, -8, 61, 14, 54, 26, 40, 25, -16, 8, -38, 25, 3, 44, -14, -3, -39, 13, -12, -21, -19, 22, 6, 10, 11, 2, 42, -1, 13, 103, 6, 34, 28, 3, -2, -11, -19, 16, 32, 19, 4, -29, 21, 32, 5, 8, 36, 50, 50, -9, 11, -37, 17, -7, -15, 4, 11, 4, -41, 7, 21, 12, 37, 11, 12, -2, 10, -6, -8, -5, 14, 28, -29, 16, -54, 49, 4, -24, 4, 17, 9, -11, 17, 47, 10, 15, -3, 23, 2, 4, -26, 2, -2, 22, 21, 51, 24, 12, 21, 15, 74, -27, 21, 15, 22, 25, -11, 19, -6, 49, 21, 42, 20, -11, 12, 32, -8, 4, 49, 27, 13, 22, 5, -25, 35, 20, 18, -51, 15, 48, -34, 11, -18, 25, 18, 44, 41, -27, -7, -26, -2, 66, -2, -20, 83, 18, 41, 18, -2, 78, 9, -55, 27, 21, 39, 13, 31, -74, 12, -35, 8, 22, 101, -3, 0, 0, 87, -23, -11, 26]
+degree sequence constrained:  [7, -4, 2, 5, 5, 5, 2, 5, 10, 2, 7, 2, 15, 10, 7, 10, 15, 7, 27, 10, 15, 5, 2, 2, 10, 15, -59, 15, 2, 15, 15, 2, 10, -4, 15, 2, 15, 5, 2, 15, 5, 7, -4, 10, 2, 15, 2, 10, -4, 15, 2, 10, 15, 27, 15, 5, 27, 5, 15, 10, 27, 15, 10, -4, 15, 7, 2, 15, 2, 5, 27, 5, 2, 5, 10, 5, 10, 27, 15, 15, 15, 15, 10, 5, 10, 7, 10, 15, 10, 7, 7, -4, 15, 5, 7, 7, 2, -4, 7, 7, 15, 15, 15, 2, 2, 7, -4, 7, 5, 5, 5, 15, 7, 10, 7, -4, 7, 15, 15, 7, 2, 7, 2, -4, 15, 15, 15, 5, 5, 10, 15, -4, -4, 7, 15, 7, 2, 2, 5, 10, 15, 27, 7, 7, 7, 15, 10, 15, 10, 15, 2, 5, 2, 7, 10, 10, 27, 2, 15, 7, 10, -4, 10, 15, 10, 27, 15, 2, 15, 5, 15, 15, 7, 5, 15, 10, 10, 15, 15, 7, 15, 2, 5, 15, 2, 15, 10, 7, 2, 10, 15, 27, 15, 10, 15, 2, 15, 2, 2, 10]
+mse of degree sequence with laplace:  791.965
+mse of degree sequence with constraint laplace :  76.245
+clustering coefficient for graph generated with laplace:  0.108
+mse of pagerank with laplace:  2.8070070063797894e-05
+clustering coefficient for graph generated with constraint laplace:  0.038
+mse of pagerank with constraint laplace:  8.087414012250754e-06
+epsilon:  1
+degree sequence:  [10, 4, 7, 9, 9, 9, 8, 9, 11, 6, 10, 7, 13, 11, 10, 11, 13, 10, 17, 11, 12, 9, 8, 8, 11, 12, 3, 14, 8, 14, 15, 8, 11, 5, 12, 8, 13, 8, 7, 13, 9, 10, 4, 11, 7, 12, 7, 11, 5, 14, 7, 11, 13, 18, 13, 8, 16, 8, 14, 11, 16, 12, 11, 5, 12, 10, 7, 13, 7, 9, 16, 9, 7, 9, 11, 8, 11, 18, 12, 13, 15, 15, 11, 8, 11, 10, 11, 12, 11, 9, 9, 4, 14, 8, 9, 9, 7, 5, 9, 10, 13, 12, 14, 7, 6, 9, 5, 10, 8, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 7, 9, 7, 5, 15, 12, 13, 8, 8, 11, 12, 4, 5, 9, 15, 9, 6, 7, 8, 10, 15, 18, 9, 9, 9, 14, 10, 13, 10, 12, 7, 8, 6, 9, 10, 11, 17, 7, 12, 9, 10, 3, 10, 11, 10, 16, 15, 5, 11, 8, 13, 11, 9, 8, 11, 10, 10, 11, 11, 9, 11, 7, 8, 11, 6, 12, 10, 9, 6, 10, 11, 19, 13, 10, 11, 7, 13, 7, 7, 10]
+degree sequence with laplace:  [9, 1, 7, 9, 9, 7, 6, 10, 12, 5, 11, 9, 21, 12, 9, 14, 9, 19, 17, 10, 12, 9, 10, 6, 9, 11, 3, 9, 8, 15, 4, 16, 12, 11, 12, 8, 18, 9, 10, 10, 10, 7, 7, 10, 9, 14, -1, 14, 11, 14, 6, 16, 18, 17, 14, 9, 16, 7, 17, 12, 12, 10, 11, 3, 10, 10, 4, 17, 5, 7, 21, 9, 8, 11, 10, 11, 9, 17, 14, 15, 8, 14, 12, 7, 8, 13, 13, 13, 12, 9, 13, 1, 14, 10, 13, 9, 7, 6, 7, 10, 14, 14, 14, 4, 6, 9, 6, 10, 9, 3, 4, 11, 12, 11, 8, 4, 13, 27, 10, 5, 6, 5, 7, 5, 17, 5, 12, 4, 12, 6, 12, 4, 6, 8, 15, 5, 4, 7, 7, 13, 12, 23, 12, 9, 5, 10, 5, 12, 9, 11, 8, 9, 8, 8, 6, 12, 16, 7, 13, 10, 16, 0, 7, 17, 9, 23, 19, 1, 14, 2, 14, 11, 7, 5, 8, 9, 10, 18, 12, 9, 10, 13, 10, 11, 10, 11, 13, 9, 7, 10, 10, 15, 17, 7, 14, 4, 13, 9, 9, 3]
+degree sequence constrained:  [10, 3, 7, 8, 8, 8, 8, 8, 10, 7, 10, 7, 13, 10, 10, 10, 13, 10, 19, 10, 11, 8, 8, 8, 10, 11, 3, 14, 8, 14, 14, 8, 10, 6, 11, 8, 13, 8, 7, 13, 8, 10, 3, 10, 7, 11, 7, 10, 6, 14, 7, 10, 13, 19, 13, 8, 17, 8, 14, 11, 17, 11, 11, 6, 12, 10, 8, 13, 8, 8, 17, 8, 8, 8, 11, 8, 11, 19, 12, 14, 14, 14, 11, 8, 11, 10, 11, 12, 11, 8, 9, 3, 14, 8, 9, 9, 8, 6, 9, 10, 14, 12, 14, 8, 7, 9, 7, 10, 8, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 8, 9, 8, 7, 14, 12, 14, 8, 8, 11, 12, 4, 7, 9, 15, 9, 7, 8, 8, 10, 15, 19, 9, 9, 9, 14, 10, 14, 10, 12, 8, 8, 7, 9, 10, 11, 19, 8, 12, 10, 10, 3, 10, 11, 10, 19, 15, 7, 11, 8, 14, 11, 10, 8, 11, 10, 10, 11, 11, 10, 11, 8, 8, 11, 7, 13, 10, 10, 7, 10, 11, 19, 14, 10, 11, 8, 14, 8, 8, 10]
+mse of degree sequence with laplace:  10.195
+mse of degree sequence with constraint laplace :  17.42
+clustering coefficient for graph generated with laplace:  0.031
+mse of pagerank with laplace:  5.984536238086829e-06
+clustering coefficient for graph generated with constraint laplace:  0.015
+mse of pagerank with constraint laplace:  4.50917975249951e-06
+epsilon:  10
+degree sequence:  [10, 4, 7, 9, 9, 9, 8, 9, 11, 6, 10, 7, 13, 11, 10, 11, 13, 10, 17, 11, 12, 9, 8, 8, 11, 12, 3, 14, 8, 14, 15, 8, 11, 5, 12, 8, 13, 8, 7, 13, 9, 10, 4, 11, 7, 12, 7, 11, 5, 14, 7, 11, 13, 18, 13, 8, 16, 8, 14, 11, 16, 12, 11, 5, 12, 10, 7, 13, 7, 9, 16, 9, 7, 9, 11, 8, 11, 18, 12, 13, 15, 15, 11, 8, 11, 10, 11, 12, 11, 9, 9, 4, 14, 8, 9, 9, 7, 5, 9, 10, 13, 12, 14, 7, 6, 9, 5, 10, 8, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 7, 9, 7, 5, 15, 12, 13, 8, 8, 11, 12, 4, 5, 9, 15, 9, 6, 7, 8, 10, 15, 18, 9, 9, 9, 14, 10, 13, 10, 12, 7, 8, 6, 9, 10, 11, 17, 7, 12, 9, 10, 3, 10, 11, 10, 16, 15, 5, 11, 8, 13, 11, 9, 8, 11, 10, 10, 11, 11, 9, 11, 7, 8, 11, 6, 12, 10, 9, 6, 10, 11, 19, 13, 10, 11, 7, 13, 7, 7, 10]
+degree sequence with laplace:  [10, 4, 7, 9, 9, 9, 8, 8, 11, 6, 10, 7, 13, 11, 10, 11, 14, 10, 17, 11, 12, 9, 8, 8, 11, 11, 3, 14, 8, 14, 15, 8, 11, 5, 12, 8, 13, 8, 7, 13, 9, 10, 4, 11, 7, 12, 7, 11, 5, 14, 7, 11, 13, 17, 13, 8, 16, 8, 14, 11, 17, 12, 11, 5, 12, 10, 7, 14, 7, 9, 16, 9, 7, 9, 11, 8, 11, 18, 13, 13, 15, 15, 11, 8, 10, 10, 11, 12, 11, 9, 9, 4, 14, 8, 9, 9, 7, 5, 9, 10, 13, 12, 14, 7, 5, 9, 5, 9, 7, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 7, 9, 7, 5, 16, 13, 13, 8, 8, 11, 12, 4, 5, 9, 15, 9, 6, 7, 8, 10, 15, 18, 9, 9, 9, 15, 10, 13, 10, 12, 7, 8, 6, 9, 10, 11, 17, 7, 12, 9, 10, 3, 10, 11, 10, 16, 15, 5, 11, 8, 13, 11, 10, 8, 11, 10, 10, 11, 10, 9, 11, 7, 8, 12, 6, 13, 10, 9, 6, 10, 11, 19, 12, 10, 11, 7, 13, 7, 7, 10]
+degree sequence constrained:  [10, 4, 7, 9, 9, 9, 8, 9, 11, 6, 10, 7, 13, 11, 10, 11, 13, 10, 17, 11, 12, 9, 8, 8, 11, 12, 3, 14, 8, 14, 15, 8, 11, 5, 12, 8, 13, 8, 7, 13, 9, 10, 4, 11, 7, 12, 7, 11, 5, 14, 7, 11, 13, 18, 13, 8, 16, 8, 14, 11, 16, 12, 11, 5, 12, 10, 7, 13, 7, 9, 16, 9, 7, 9, 11, 8, 11, 18, 12, 13, 15, 15, 11, 8, 11, 10, 11, 12, 11, 9, 9, 4, 14, 8, 9, 9, 7, 5, 9, 10, 13, 12, 14, 7, 6, 9, 5, 10, 8, 8, 8, 12, 10, 11, 10, 4, 9, 12, 12, 9, 7, 9, 7, 5, 15, 12, 13, 8, 8, 11, 12, 4, 5, 9, 15, 9, 6, 7, 8, 10, 15, 18, 9, 9, 9, 14, 10, 13, 10, 12, 7, 8, 6, 9, 10, 11, 17, 7, 13, 9, 10, 3, 10, 11, 10, 16, 15, 5, 11, 8, 13, 11, 9, 8, 11, 10, 10, 11, 11, 9, 11, 7, 8, 11, 6, 13, 10, 9, 6, 10, 11, 19, 13, 10, 11, 7, 13, 7, 7, 10]
+mse of degree sequence with laplace:  0.095
+mse of degree sequence with constraint laplace :  18.86
+clustering coefficient for graph generated with laplace:  0.034
+mse of pagerank with laplace:  4.597258973531751e-06
+clustering coefficient for graph generated with constraint laplace:  0.028
+mse of pagerank with constraint laplace:  4.4821853201349715e-06
+---------------------------------------------------------------------
+Elapsed time: 809.5497324466705 seconds
+number of edges generated:  3879
+m:  4000
+n:  1000
+average clustering coefficient for generated graph:  0.0032
+average clustering coefficient for original graph:  0.006
+relative error rate for clustering coefficient:  0.4666666666666667
+mse for pagerank:  2.2176520790203552e-07
+epsilon:  0.1
+degree sequence:  [9, 6, 8, 10, 9, 10, 3, 3, 1, 10, 12, 8, 14, 7, 8, 9, 6, 9, 10, 11, 12, 5, 4, 17, 6, 8, 6, 8, 3, 8, 5, 8, 4, 4, 10, 7, 14, 10, 4, 5, 8, 9, 7, 7, 16, 4, 12, 15, 7, 7, 8, 11, 6, 2, 9, 11, 2, 5, 10, 4, 8, 5, 8, 14, 9, 6, 8, 6, 9, 8, 7, 9, 8, 12, 10, 7, 10, 8, 7, 5, 9, 8, 8, 5, 9, 7, 7, 4, 9, 17, 8, 5, 6, 10, 7, 12, 6, 5, 12, 7, 9, 8, 7, 15, 2, 8, 8, 9, 6, 6, 12, 10, 11, 5, 10, 4, 9, 3, 9, 14, 10, 10, 9, 7, 4, 13, 9, 7, 11, 7, 8, 1, 7, 7, 8, 9, 7, 10, 14, 7, 11, 9, 11, 8, 8, 8, 6, 7, 3, 7, 8, 10, 6, 5, 14, 6, 8, 7, 8, 5, 10, 8, 10, 6, 13, 4, 9, 7, 8, 6, 4, 6, 7, 9, 6, 5, 17, 5, 12, 15, 5, 6, 5, 9, 15, 8, 8, 9, 10, 10, 15, 5, 9, 9, 10, 9, 10, 6, 7, 9, 10, 9, 10, 5, 9, 5, 12, 6, 11, 6, 12, 6, 6, 5, 9, 11, 5, 4, 8, 10, 8, 7, 5, 11, 13, 10, 8, 9, 8, 7, 15, 11, 4, 8, 10, 7, 10, 11, 10, 7, 10, 5, 6, 11, 4, 9, 6, 8, 9, 10, 3, 7, 9, 6, 6, 12, 8, 7, 4, 8, 2, 8, 9, 7, 6, 6, 5, 7, 10, 11, 9, 15, 7, 8, 11, 6, 5, 7, 9, 2, 8, 7, 9, 5, 6, 9, 5, 3, 11, 5, 5, 6, 7, 4, 12, 6, 9, 7, 12, 9, 8, 14, 9, 6, 10, 8, 14, 9, 6, 6, 6, 9, 12, 6, 5, 1, 8, 4, 13, 10, 3, 9, 7, 5, 8, 10, 10, 6, 8, 5, 13, 7, 5, 13, 2, 6, 3, 11, 7, 6, 10, 10, 1, 9, 10, 8, 10, 6, 9, 9, 11, 6, 6, 9, 6, 8, 9, 6, 12, 5, 10, 8, 13, 3, 12, 6, 13, 6, 13, 10, 9, 10, 6, 10, 8, 11, 8, 8, 4, 8, 18, 11, 6, 3, 5, 6, 3, 10, 6, 8, 11, 7, 5, 5, 7, 3, 11, 11, 9, 8, 11, 4, 6, 5, 8, 8, 8, 9, 6, 10, 10, 10, 8, 5, 7, 9, 11, 8, 6, 5, 7, 11, 9, 6, 8, 7, 8, 6, 13, 9, 7, 8, 9, 8, 7, 6, 16, 12, 8, 9, 15, 13, 8, 8, 9, 7, 10, 6, 6, 9, 12, 6, 4, 11, 8, 2, 8, 13, 4, 9, 13, 5, 5, 7, 6, 6, 4, 8, 14, 7, 7, 10, 9, 11, 12, 9, 11, 12, 4, 5, 7, 11, 4, 11, 9, 7, 9, 8, 5, 9, 4, 7, 6, 8, 3, 15, 3, 7, 10, 9, 12, 9, 7, 6, 5, 8, 6, 8, 6, 9, 13, 6, 4, 3, 7, 6, 9, 5, 10, 5, 8, 12, 10, 8, 17, 9, 6, 9, 8, 10, 12, 6, 10, 6, 10, 7, 3, 7, 13, 7, 4, 6, 13, 2, 7, 8, 9, 6, 6, 7, 4, 11, 4, 7, 12, 11, 1, 11, 4, 13, 9, 7, 8, 6, 9, 12, 8, 11, 9, 6, 7, 8, 5, 6, 10, 9, 10, 7, 13, 7, 11, 9, 13, 10, 9, 8, 3, 5, 7, 9, 10, 7, 4, 11, 14, 6, 10, 9, 11, 5, 9, 6, 7, 7, 9, 10, 2, 10, 6, 7, 10, 7, 12, 9, 8, 14, 9, 11, 11, 9, 10, 7, 6, 4, 8, 7, 6, 12, 11, 7, 9, 9, 9, 10, 11, 6, 10, 7, 8, 7, 11, 9, 7, 6, 6, 6, 4, 9, 7, 2, 9, 4, 5, 9, 9, 3, 5, 7, 9, 11, 2, 8, 6, 8, 9, 7, 11, 8, 9, 10, 5, 12, 5, 10, 9, 6, 5, 11, 8, 11, 8, 9, 11, 6, 9, 10, 8, 8, 11, 7, 8, 11, 8, 5, 8, 7, 6, 5, 13, 11, 5, 8, 6, 8, 6, 7, 10, 10, 7, 4, 10, 10, 4, 7, 6, 6, 5, 5, 10, 8, 8, 13, 5, 3, 7, 6, 11, 8, 8, 10, 4, 9, 6, 6, 10, 10, 6, 14, 4, 8, 8, 6, 13, 6, 3, 8, 13, 10, 3, 12, 10, 5, 6, 3, 8, 9, 9, 5, 9, 11, 12, 5, 6, 6, 9, 9, 10, 8, 4, 11, 8, 14, 6, 5, 9, 10, 7, 3, 7, 7, 9, 9, 8, 9, 4, 12, 9, 4, 9, 4, 8, 11, 5, 5, 4, 12, 8, 6, 8, 6, 4, 9, 7, 7, 10, 8, 12, 13, 5, 7, 10, 6, 10, 7, 11, 10, 15, 9, 6, 14, 12, 17, 8, 7, 4, 8, 9, 6, 9, 4, 5, 11, 5, 7, 12, 9, 6, 11, 9, 4, 6, 5, 14, 9, 6, 10, 11, 4, 10, 8, 9, 6, 10, 13, 7, 9, 9, 6, 6, 7, 7, 4, 11, 7, 6, 6, 8, 8, 11, 9, 7, 3, 3, 5, 7, 6, 9, 7, 9, 10, 8, 8, 9, 11, 9, 12, 10, 9, 8, 9, 9, 5, 5, 8, 5, 8, 9, 14, 8, 7, 7, 12, 9, 6, 10, 6, 7, 11, 9, 5, 6, 11, 13, 7, 10, 14, 3, 7, 6, 7, 7, 2, 9, 10, 4, 7, 4, 5, 12, 12, 9, 4, 6, 8, 4, 10, 8, 9, 6, 8, 9, 10, 12, 5, 6, 7, 6, 10, 5, 9, 3, 5, 7, 10, 12, 6, 7, 12, 6, 7, 9, 4, 12, 12, 4, 8, 9, 7, 13, 6, 9, 9, 8, 10, 13, 8, 5, 9, 12, 12, 6, 13, 4, 8, 7, 6, 9, 7, 5, 8, 14, 3, 12, 7, 11, 6, 2, 10, 6, 7]
+degree sequence with laplace:  [-37, 23, -54, 30, 19, -43, 6, -34, 5, 5, 60, -10, 13, -43, 5, -19, 24, 98, -19, 24, 88, 10, 7, 14, 2, 12, -58, 40, -4, -3, -1, 15, 24, 47, -21, 3, -7, -43, 16, 48, 7, 45, 23, 26, -73, -3, 0, 20, 48, 30, -6, 9, 25, 7, -20, -10, 6, 21, 7, 5, 49, 1, 71, 46, 14, 17, 50, -9, 3, -13, 19, 31, 47, 57, -104, -8, 39, -4, 36, 5, -39, 13, 3, 67, -32, 37, 8, 30, 36, -36, 8, 27, 24, -3, 3, 17, 19, 40, -35, 4, 12, 7, 37, 11, 16, 15, 46, 52, 7, 48, -1, 30, -3, -9, 9, 3, -43, -3, -6, 24, 25, -1, 5, -59, 6, -30, -35, -12, 29, 58, 6, 45, 13, 27, 20, 23, -13, 17, -8, 28, 15, 18, 27, -3, -43, 4, -25, 41, 29, -10, 9, -2, 30, -3, -12, 6, -2, -25, 14, 23, 28, 14, 31, 7, 22, 0, 48, 25, 28, 7, 13, -85, 26, -1, -19, 18, 29, 9, 35, -3, 16, 11, -106, 26, 17, 32, 38, 37, -3, -5, 17, 4, 9, 0, 9, 22, 13, -5, -50, 15, 11, 23, 40, 27, 23, 5, 12, 31, 19, -6, 11, -12, 14, 6, 2, -23, 6, -57, -4, -3, 36, 34, -77, 18, 77, 15, 48, 13, 47, 2, 8, 102, -6, 14, 18, -11, 10, -8, 28, 20, 17, 48, 6, 29, -3, -6, 7, 10, -32, 8, -26, -11, 2, 3, -19, 13, 18, 53, 15, -16, 8, 3, -13, 3, 25, -4, 19, 16, 9, -3, 12, 48, 9, 24, 5, 43, 3, 35, 1, -30, -3, 38, 11, 44, 63, -4, 8, -2, 6, 7, -7, -2, -2, 20, -47, -19, 4, 53, 23, 29, -8, 9, 6, -17, -10, 5, -43, 19, 6, 14, 0, 21, 47, 6, -5, 12, -14, 1, 2, 110, -21, 6, 35, -15, -12, 28, 4, -8, 3, 18, 31, 99, 24, -8, 23, 24, 0, 20, 5, 58, -25, -9, 42, 28, 6, -3, 10, -29, -15, 17, 12, -62, 4, 9, -4, 8, -7, -6, -12, -1, 110, 47, 6, -3, -8, 77, 31, 18, -35, -2, 22, 6, 16, 35, 11, 5, -10, 1, -5, -16, 26, 98, 11, -14, 37, 30, 9, 18, 4, 18, 4, 8, 26, 11, -35, -1, 19, 6, 2, -11, -30, 16, -29, -6, -6, 12, 1, -14, 6, 76, 36, -45, 28, 0, -2, 34, 22, 5, 10, -32, -14, 15, 70, 23, 37, -63, 12, 7, -19, 11, -39, 36, 2, 8, 1, -34, 13, 11, -25, 11, -9, 14, 20, 33, -7, -16, 36, 24, -23, 7, 37, -5, 7, -59, 71, -24, -41, 12, 15, -17, 56, 12, -4, 24, 47, -25, 23, 7, 24, 1, -31, 18, 6, 8, 4, -29, -21, 18, 14, 0, 12, -41, 12, -14, 17, 21, 14, 9, -3, -36, -11, -13, 18, 14, 67, 21, 14, 2, -12, 21, 30, -20, 40, 21, -2, 78, 50, 17, 1, 10, -55, 8, -7, 76, -60, 0, 16, 72, -1, -25, 0, -30, 17, 7, 0, 28, 7, -2, 8, 25, 22, 18, 26, -42, -29, 20, 26, -3, -2, -23, 12, 36, 32, -19, 29, 44, 10, -25, -10, 49, -5, 27, 21, 50, 7, 62, 67, 15, -14, 23, 49, 53, 29, 7, 4, -16, 15, 21, 34, -13, 42, 31, 17, 86, 15, 0, -11, -59, 24, 0, 4, 3, 9, 6, 82, 11, 46, 3, 21, 23, 1, -34, 13, -29, 1, -77, 2, 67, 14, 9, 9, 33, -3, 9, 25, -34, -139, -15, -4, -5, -45, -11, 13, 80, 0, 82, 2, 68, 24, 14, -9, -34, -29, -26, -68, 3, 57, 10, 7, 30, 20, 6, -8, 8, 10, -13, 2, 33, 1, -34, 14, -40, -3, 34, -3, -36, 13, 2, 17, -3, 20, -11, 14, 32, 5, -12, 14, -12, 3, 7, -7, -16, -12, -43, 22, -18, 27, 7, -66, 12, 24, 17, 41, -14, -11, 37, -2, 9, -17, 41, -4, -13, -19, -5, -7, -20, 7, 49, 57, 17, 76, -11, 17, 91, 19, 12, -10, -49, 16, 24, 18, 11, 24, 32, -9, -47, 10, -27, 5, -14, 26, 15, 32, -25, -25, -17, 9, 12, -28, 46, -7, 8, 32, -28, 57, 7, 34, -1, -22, 22, -19, -27, -30, 13, 18, 8, 9, 16, -2, -26, 13, 66, -59, 68, -31, 13, 17, 14, -11, 17, 13, 28, -1, 10, -1, 19, 13, 6, 15, 22, -62, -30, 6, -17, -19, 18, -15, 3, 28, 31, -27, 2, -12, 18, -28, 19, 17, 17, 19, 10, -3, 10, 14, 11, -12, 11, 9, 26, 16, 9, -8, -6, 8, 17, 9, -23, -29, -9, -22, -26, -1, 6, -2, 6, -2, -13, -10, 29, 2, 0, 11, 34, 10, -3, 8, -2, 3, 10, 8, -4, 21, 8, 18, -27, -35, 24, 28, -26, -22, 33, -31, 4, 21, -48, 19, 13, -1, -4, -4, 34, 20, -5, 24, 5, 44, 34, -126, 3, 74, 12, -14, 1, 38, -23, 35, -8, 60, 0, -29, 2, -15, 6, 1, 21, 3, 26, 11, -4, -2, 10, -15, 15, 17, 16, 3, 73, 27, 13, -2, 64, 13, -19, 58, 72, -27, 58, 33, -3, 64, 1, 10, 46, 18, -5, -17, -8, -90, 21, 24, -2, -4, 15, 45, 16, 41, 39, -8, -15, 17, 1, -26, 41, 20, -4, 28, 0, -14, -3, 15, -9, 8, -26, 33, -1, -66, 8, 2, -2, 12, -67, 4, 23, 10, -7, 4, 27, 4, 1, -59, 2, -3, 8, 99, 5, 61, 8, 18, 9, -6, 45, 50, -10, -10, 14, 3, 5, 59, 29, -21, 31, 14, -24, 20, -11, 0, -1, -9, 5, 56, -3, 7, 27, 24, -10, 8, 15, 13, 23, 4, 8, 6, -17, 19, 7, 6, 17, 25, -13, 1, 3, -54, -64, 25, 42, 16, -21, -7, -16, -14, -18]
+degree sequence constrained:  [6, 4, 6, 8, 6, 8, 4, 4, -10, 8, 18, 6, 18, 5, 6, 6, 4, 6, 8, 12, 18, 4, 4, 20, 4, 6, 4, 6, 4, 6, 4, 6, 4, 4, 8, 5, 18, 8, 4, 4, 6, 6, 5, 5, 20, 4, 18, 18, 5, 5, 6, 12, 4, -10, 6, 12, -10, 4, 8, 4, 6, 4, 6, 18, 6, 4, 6, 4, 6, 6, 5, 6, 6, 18, 8, 5, 8, 6, 5, 4, 6, 6, 6, 4, 7, 5, 5, 4, 7, 20, 6, 4, 4, 8, 5, 18, 4, 4, 18, 5, 7, 6, 5, 18, -10, 6, 6, 7, 4, 4, 18, 8, 12, 4, 8, 4, 7, 4, 7, 18, 12, 12, 7, 5, 4, 18, 7, 5, 12, 5, 6, -10, 5, 5, 6, 7, 5, 12, 18, 5, 12, 7, 12, 6, 6, 6, 4, 5, 4, 6, 6, 12, 4, 4, 18, 4, 6, 6, 6, 4, 12, 6, 12, 4, 18, 4, 7, 6, 6, 4, 4, 4, 6, 7, 4, 4, 20, 4, 18, 18, 4, 4, 4, 7, 18, 6, 6, 7, 12, 12, 18, 4, 7, 7, 12, 7, 12, 4, 6, 7, 12, 7, 12, 4, 7, 4, 18, 4, 12, 4, 18, 4, 4, 4, 7, 12, 4, 4, 6, 12, 6, 6, 4, 12, 18, 12, 6, 7, 6, 6, 18, 12, 4, 6, 12, 6, 12, 12, 12, 6, 12, 4, 4, 12, 4, 7, 4, 6, 7, 12, 4, 6, 7, 4, 4, 18, 6, 6, 4, 6, -10, 6, 7, 6, 4, 4, 4, 6, 12, 12, 7, 18, 6, 6, 12, 4, 4, 6, 7, -10, 6, 6, 7, 4, 4, 7, 4, 4, 12, 4, 4, 4, 6, 4, 18, 4, 7, 6, 18, 7, 6, 18, 7, 4, 12, 6, 18, 7, 4, 4, 4, 7, 18, 4, 4, -10, 6, 4, 18, 12, 4, 7, 6, 4, 6, 12, 12, 4, 6, 4, 18, 6, 4, 18, -10, 4, 4, 12, 6, 4, 12, 12, -10, 7, 12, 6, 12, 4, 7, 7, 12, 4, 4, 7, 4, 6, 7, 4, 18, 4, 12, 6, 18, 4, 18, 4, 18, 4, 18, 12, 7, 12, 4, 12, 6, 12, 6, 6, 4, 6, 20, 12, 4, 4, 4, 4, 4, 12, 4, 6, 12, 6, 4, 4, 6, 4, 12, 12, 7, 6, 12, 4, 4, 4, 6, 6, 6, 7, 4, 12, 12, 12, 6, 4, 6, 7, 12, 6, 4, 4, 6, 12, 7, 4, 6, 6, 6, 4, 18, 7, 6, 6, 7, 6, 6, 4, 20, 18, 6, 7, 18, 18, 6, 6, 7, 6, 12, 4, 4, 7, 18, 4, 4, 12, 6, -10, 6, 18, 4, 7, 18, 4, 4, 6, 4, 4, 4, 6, 18, 6, 6, 12, 7, 12, 18, 7, 12, 18, 4, 4, 6, 12, 4, 12, 7, 6, 7, 6, 4, 7, 4, 6, 4, 6, 4, 20, 4, 6, 12, 7, 18, 7, 6, 4, 4, 6, 4, 6, 4, 7, 18, 4, 4, 4, 6, 4, 7, 4, 12, 4, 6, 18, 12, 6, 20, 7, 4, 7, 6, 12, 18, 4, 12, 4, 12, 6, 4, 6, 18, 6, 4, 4, 18, -10, 6, 6, 7, 4, 4, 6, 4, 12, 4, 6, 18, 12, -10, 12, 4, 18, 7, 6, 6, 4, 7, 18, 6, 12, 7, 4, 6, 6, 4, 4, 12, 7, 12, 6, 18, 6, 12, 7, 18, 12, 7, 6, 4, 4, 6, 7, 12, 6, 4, 12, 18, 4, 12, 7, 12, 4, 7, 4, 6, 6, 7, 12, -10, 12, 4, 6, 12, 6, 18, 7, 6, 18, 7, 12, 12, 7, 12, 6, 4, 4, 6, 6, 4, 18, 12, 6, 7, 7, 7, 12, 12, 4, 12, 6, 6, 6, 12, 7, 6, 4, 4, 4, 4, 7, 6, 4, 7, 4, 4, 7, 7, 4, 4, 6, 7, 12, 4, 6, 4, 6, 7, 6, 12, 6, 7, 12, 4, 18, 4, 12, 7, 4, 4, 12, 6, 12, 6, 7, 12, 4, 7, 12, 6, 6, 12, 6, 6, 12, 6, 4, 6, 6, 4, 4, 18, 12, 4, 6, 4, 6, 4, 6, 12, 12, 6, 4, 12, 12, 4, 6, 4, 4, 4, 4, 12, 6, 6, 18, 4, 4, 6, 5, 12, 6, 6, 12, 4, 7, 5, 5, 12, 12, 5, 18, 4, 6, 6, 5, 18, 5, 4, 6, 18, 12, 4, 18, 12, 4, 5, 4, 6, 7, 7, 4, 7, 12, 18, 4, 5, 5, 7, 8, 12, 6, 4, 12, 6, 18, 5, 4, 8, 12, 6, 4, 6, 6, 8, 8, 6, 8, 4, 18, 8, 4, 8, 4, 6, 12, 4, 4, 4, 18, 6, 5, 6, 5, 4, 8, 6, 6, 12, 6, 18, 18, 4, 6, 12, 5, 12, 6, 12, 12, 20, 8, 5, 18, 18, 20, 6, 6, 4, 6, 8, 5, 8, 4, 4, 12, 4, 6, 18, 8, 5, 12, 8, 4, 5, 4, 18, 8, 5, 12, 12, 4, 12, 6, 8, 5, 12, 18, 6, 8, 8, 5, 5, 6, 6, 4, 12, 6, 5, 5, 6, 6, 12, 8, 6, 4, 4, 4, 6, 5, 8, 6, 8, 12, 6, 6, 8, 12, 8, 18, 12, 8, 6, 8, 8, 4, 4, 6, 4, 6, 8, 18, 6, 6, 6, 18, 8, 5, 12, 5, 6, 12, 8, 4, 5, 18, 18, 6, 12, 18, 4, 6, 5, 6, 6, 4, 8, 12, 4, 6, 4, 4, 18, 18, 8, 4, 5, 6, 4, 12, 6, 8, 5, 6, 8, 12, 18, 4, 5, 6, 5, 12, 4, 8, 4, 4, 6, 12, 18, 5, 6, 18, 5, 6, 8, 4, 18, 18, 4, 6, 8, 6, 18, 5, 8, 8, 6, 12, 18, 6, 4, 8, 18, 18, 5, 18, 4, 6, 6, 5, 8, 6, 4, 6, 18, 4, 18, 6, 18, 5, 4, 12, 5, 6]
+mse of degree sequence with laplace:  793.129
+mse of degree sequence with constraint laplace :  30.583
+clustering coefficient for graph generated with laplace:  0.04
+mse of pagerank with laplace:  1.8654281296305439e-06
+clustering coefficient for graph generated with constraint laplace:  0.007
+mse of pagerank with constraint laplace:  2.9363448578549e-07
+epsilon:  1
+degree sequence:  [9, 6, 8, 10, 9, 10, 3, 3, 1, 10, 12, 8, 14, 7, 8, 9, 6, 9, 10, 11, 12, 5, 4, 17, 6, 8, 6, 8, 3, 8, 5, 8, 4, 4, 10, 7, 14, 10, 4, 5, 8, 9, 7, 7, 16, 4, 12, 15, 7, 7, 8, 11, 6, 2, 9, 11, 2, 5, 10, 4, 8, 5, 8, 14, 9, 6, 8, 6, 9, 8, 7, 9, 8, 12, 10, 7, 10, 8, 7, 5, 9, 8, 8, 5, 9, 7, 7, 4, 9, 17, 8, 5, 6, 10, 7, 12, 6, 5, 12, 7, 9, 8, 7, 15, 2, 8, 8, 9, 6, 6, 12, 10, 11, 5, 10, 4, 9, 3, 9, 14, 10, 10, 9, 7, 4, 13, 9, 7, 11, 7, 8, 1, 7, 7, 8, 9, 7, 10, 14, 7, 11, 9, 11, 8, 8, 8, 6, 7, 3, 7, 8, 10, 6, 5, 14, 6, 8, 7, 8, 5, 10, 8, 10, 6, 13, 4, 9, 7, 8, 6, 4, 6, 7, 9, 6, 5, 17, 5, 12, 15, 5, 6, 5, 9, 15, 8, 8, 9, 10, 10, 15, 5, 9, 9, 10, 9, 10, 6, 7, 9, 10, 9, 10, 5, 9, 5, 12, 6, 11, 6, 12, 6, 6, 5, 9, 11, 5, 4, 8, 10, 8, 7, 5, 11, 13, 10, 8, 9, 8, 7, 15, 11, 4, 8, 10, 7, 10, 11, 10, 7, 10, 5, 6, 11, 4, 9, 6, 8, 9, 10, 3, 7, 9, 6, 6, 12, 8, 7, 4, 8, 2, 8, 9, 7, 6, 6, 5, 7, 10, 11, 9, 15, 7, 8, 11, 6, 5, 7, 9, 2, 8, 7, 9, 5, 6, 9, 5, 3, 11, 5, 5, 6, 7, 4, 12, 6, 9, 7, 12, 9, 8, 14, 9, 6, 10, 8, 14, 9, 6, 6, 6, 9, 12, 6, 5, 1, 8, 4, 13, 10, 3, 9, 7, 5, 8, 10, 10, 6, 8, 5, 13, 7, 5, 13, 2, 6, 3, 11, 7, 6, 10, 10, 1, 9, 10, 8, 10, 6, 9, 9, 11, 6, 6, 9, 6, 8, 9, 6, 12, 5, 10, 8, 13, 3, 12, 6, 13, 6, 13, 10, 9, 10, 6, 10, 8, 11, 8, 8, 4, 8, 18, 11, 6, 3, 5, 6, 3, 10, 6, 8, 11, 7, 5, 5, 7, 3, 11, 11, 9, 8, 11, 4, 6, 5, 8, 8, 8, 9, 6, 10, 10, 10, 8, 5, 7, 9, 11, 8, 6, 5, 7, 11, 9, 6, 8, 7, 8, 6, 13, 9, 7, 8, 9, 8, 7, 6, 16, 12, 8, 9, 15, 13, 8, 8, 9, 7, 10, 6, 6, 9, 12, 6, 4, 11, 8, 2, 8, 13, 4, 9, 13, 5, 5, 7, 6, 6, 4, 8, 14, 7, 7, 10, 9, 11, 12, 9, 11, 12, 4, 5, 7, 11, 4, 11, 9, 7, 9, 8, 5, 9, 4, 7, 6, 8, 3, 15, 3, 7, 10, 9, 12, 9, 7, 6, 5, 8, 6, 8, 6, 9, 13, 6, 4, 3, 7, 6, 9, 5, 10, 5, 8, 12, 10, 8, 17, 9, 6, 9, 8, 10, 12, 6, 10, 6, 10, 7, 3, 7, 13, 7, 4, 6, 13, 2, 7, 8, 9, 6, 6, 7, 4, 11, 4, 7, 12, 11, 1, 11, 4, 13, 9, 7, 8, 6, 9, 12, 8, 11, 9, 6, 7, 8, 5, 6, 10, 9, 10, 7, 13, 7, 11, 9, 13, 10, 9, 8, 3, 5, 7, 9, 10, 7, 4, 11, 14, 6, 10, 9, 11, 5, 9, 6, 7, 7, 9, 10, 2, 10, 6, 7, 10, 7, 12, 9, 8, 14, 9, 11, 11, 9, 10, 7, 6, 4, 8, 7, 6, 12, 11, 7, 9, 9, 9, 10, 11, 6, 10, 7, 8, 7, 11, 9, 7, 6, 6, 6, 4, 9, 7, 2, 9, 4, 5, 9, 9, 3, 5, 7, 9, 11, 2, 8, 6, 8, 9, 7, 11, 8, 9, 10, 5, 12, 5, 10, 9, 6, 5, 11, 8, 11, 8, 9, 11, 6, 9, 10, 8, 8, 11, 7, 8, 11, 8, 5, 8, 7, 6, 5, 13, 11, 5, 8, 6, 8, 6, 7, 10, 10, 7, 4, 10, 10, 4, 7, 6, 6, 5, 5, 10, 8, 8, 13, 5, 3, 7, 6, 11, 8, 8, 10, 4, 9, 6, 6, 10, 10, 6, 14, 4, 8, 8, 6, 13, 6, 3, 8, 13, 10, 3, 12, 10, 5, 6, 3, 8, 9, 9, 5, 9, 11, 12, 5, 6, 6, 9, 9, 10, 8, 4, 11, 8, 14, 6, 5, 9, 10, 7, 3, 7, 7, 9, 9, 8, 9, 4, 12, 9, 4, 9, 4, 8, 11, 5, 5, 4, 12, 8, 6, 8, 6, 4, 9, 7, 7, 10, 8, 12, 13, 5, 7, 10, 6, 10, 7, 11, 10, 15, 9, 6, 14, 12, 17, 8, 7, 4, 8, 9, 6, 9, 4, 5, 11, 5, 7, 12, 9, 6, 11, 9, 4, 6, 5, 14, 9, 6, 10, 11, 4, 10, 8, 9, 6, 10, 13, 7, 9, 9, 6, 6, 7, 7, 4, 11, 7, 6, 6, 8, 8, 11, 9, 7, 3, 3, 5, 7, 6, 9, 7, 9, 10, 8, 8, 9, 11, 9, 12, 10, 9, 8, 9, 9, 5, 5, 8, 5, 8, 9, 14, 8, 7, 7, 12, 9, 6, 10, 6, 7, 11, 9, 5, 6, 11, 13, 7, 10, 14, 3, 7, 6, 7, 7, 2, 9, 10, 4, 7, 4, 5, 12, 12, 9, 4, 6, 8, 4, 10, 8, 9, 6, 8, 9, 10, 12, 5, 6, 7, 6, 10, 5, 9, 3, 5, 7, 10, 12, 6, 7, 12, 6, 7, 9, 4, 12, 12, 4, 8, 9, 7, 13, 6, 9, 9, 8, 10, 13, 8, 5, 9, 12, 12, 6, 13, 4, 8, 7, 6, 9, 7, 5, 8, 14, 3, 12, 7, 11, 6, 2, 10, 6, 7]
+degree sequence with laplace:  [10, 5, 12, 9, 7, 9, 2, 3, 6, 13, 16, 8, 14, 8, 10, 6, 6, 8, 10, 10, 16, 3, 3, 19, 8, 15, 1, 13, 2, 9, 7, 5, 4, -2, 9, 4, 14, 10, 2, 5, 2, 5, 9, 7, 16, 1, 13, 13, 9, 9, 7, 13, 7, 2, 14, 15, 2, 4, 7, 6, 8, 1, 9, 16, 7, 4, 9, 6, 8, 8, 9, 4, 2, 17, 11, 7, 10, 7, 2, 11, 8, 7, 3, 6, 7, 7, 9, 5, 11, 14, 2, 3, 5, 10, 8, 10, 6, 6, 11, 6, 10, 11, 14, 14, 2, 8, 3, 11, 11, 5, 10, 8, 11, 7, 9, 4, 7, 3, 9, 16, 13, 10, 9, 8, 7, 16, 8, 6, 15, 5, 9, 1, 6, 9, 7, 8, 6, 10, 13, 14, 3, 9, 11, 6, 8, 13, 6, 14, 7, 8, 8, 8, 7, 4, 14, 3, 6, 7, 8, 1, 10, 8, 9, 6, 13, 5, 9, 8, 8, 8, 3, 6, 7, 9, 1, 4, 20, 3, 15, 12, 7, 2, 4, 4, 15, 9, 6, 9, 9, 9, 16, 5, 3, 11, 15, 11, 10, 9, 11, 9, 12, 10, 10, 5, 9, 5, 10, 6, 12, 13, 12, 5, 4, 3, 6, 11, 6, 5, 8, 12, 8, 7, 5, 15, 17, 9, 0, 14, 10, 8, 14, 11, 5, 8, 8, 4, 11, 15, 9, 5, 10, 7, 2, 12, 3, 8, 6, 8, 11, 10, 4, 11, 9, 5, 1, 14, 10, 6, 3, 6, -2, 3, 10, 4, 6, 7, 3, 7, 4, 14, 7, 15, 6, 6, 11, 7, 4, 6, 7, 4, 6, 6, 7, 5, 8, 8, 4, -1, 11, 4, 9, 4, 6, 3, 11, 3, 10, 6, 10, 8, 2, 12, 12, 6, 9, 3, 16, 7, 3, -3, 4, 12, 13, 7, 1, -1, 11, 8, 13, 9, 1, 9, 9, 6, 9, 9, 12, 10, 5, -1, 15, 4, 2, 13, 4, 6, 3, 12, 7, 3, 15, 10, -2, 10, 12, 8, 7, 7, 8, 9, 11, 5, 6, 8, 6, 4, 10, 6, 13, 4, 9, 6, 11, 0, 13, 2, 11, 7, 16, 9, 9, 13, 10, 13, 7, 12, 6, 12, 3, 9, 15, 11, 8, 1, 1, 5, 1, 10, 4, 7, 11, 9, 5, 6, 6, 0, 8, 8, 9, 10, 9, 8, 6, 7, 17, 8, 10, 1, 10, 9, 12, 10, 12, 5, 6, 10, 13, 6, 5, 4, 9, 14, 7, 6, 7, 11, 11, -4, 12, 11, 7, 5, 10, 16, 11, 5, 18, 11, 9, 7, 15, 12, 9, 9, 7, 7, 12, 6, -2, 6, 12, 14, 9, 8, 7, 0, 9, 14, 4, 9, 13, 7, 4, 14, 6, 4, 4, 7, 11, 7, 7, 8, 7, 12, 15, 10, 13, 13, 6, 1, 7, 13, 6, 11, 11, 7, 9, 8, 4, 6, 9, 7, 5, 2, 3, 14, 6, 8, 12, 8, 12, 10, 6, 7, 4, 9, 5, 7, 7, 8, 13, 6, 3, 0, 4, 8, 10, 4, 8, 5, 9, 12, 13, 13, 12, 8, 6, 10, 13, 17, 10, 10, 5, 6, 7, 7, 5, 6, 10, 2, 4, 6, 15, 2, 5, 8, 7, 2, 11, 4, -2, 15, 4, 7, 12, 16, 1, 12, 8, 15, 9, 7, 5, 6, 7, 15, 9, 11, 9, 5, 7, 9, 6, 3, 11, 10, 6, 8, 13, 7, 15, 9, 11, 12, 9, 8, 3, 2, 4, 6, 11, 6, 4, 15, 15, 5, 9, 5, 10, 4, 14, 4, 9, 9, 7, 11, 2, 17, 11, 8, 15, 7, 9, 12, 4, 13, 9, 2, 19, 1, 9, 8, 7, 4, 12, 5, 7, 10, 9, 6, 10, 9, 8, 6, 12, 3, 11, 6, 7, 7, 12, 11, 7, 8, 7, 7, 3, 9, 6, 0, 10, 9, 7, 9, 8, 3, 6, 3, 9, 11, -1, 9, 6, 10, 4, 8, 10, 8, 7, 10, 5, 12, 10, 6, 10, 9, 5, 13, 7, 10, 8, 7, 15, 6, 4, 9, 9, 8, 14, 2, 10, 8, 8, 5, 10, 5, 6, 6, 13, 12, 4, 12, 9, 6, 5, 16, 5, 14, 7, 5, 9, 11, 2, 7, 5, 8, 3, 5, 9, 6, 8, 15, 5, 6, 3, 12, 11, 9, 7, 9, 0, 17, 13, 5, 12, 9, 7, 12, 2, 10, 9, 11, 12, 3, 8, 9, 13, 11, 3, 13, 9, 3, 4, 6, 4, 8, 7, 1, 9, 12, 13, 0, 10, 4, 4, 3, 12, 15, 7, 11, 8, 24, 6, 5, 9, 13, 7, -5, 6, 4, 7, 7, 9, 15, 4, 12, 6, 1, 9, 7, 8, 12, 6, 8, 0, 7, 7, 8, 6, 2, 1, 4, 7, 10, 10, 9, 12, 14, 1, 10, 10, 3, 16, 6, 8, 5, 14, 11, 8, 12, 15, 12, 7, 12, 4, 7, 9, 5, 8, 6, 5, 9, 6, 7, 12, 9, 5, 14, 9, 4, 4, 7, 15, 8, 7, 10, 7, 5, 9, 11, 10, 5, 16, 17, 4, 11, 9, 7, 6, 6, 7, 7, 9, 5, 5, 8, 4, 1, 12, 13, 7, 2, 12, 7, -1, 6, 10, 7, 7, 9, 9, 6, 5, 17, 9, 13, 6, 7, 9, 10, 14, 7, 5, 5, 5, 11, 9, 16, -1, 7, 7, 11, 8, 6, 12, 6, 7, 11, 8, 5, 4, 6, 11, 8, 9, 14, -2, 5, 10, 11, 9, 0, 8, 10, 1, 13, 6, 5, 10, 10, 7, 3, 1, 8, 6, 8, 9, 8, 1, 1, 8, 14, 14, 3, 10, 6, 5, 14, 8, 5, -4, 4, 7, 8, 12, 4, 4, 10, 7, 7, 10, 4, 15, 12, 3, 0, 11, 7, 10, 7, 8, 7, 5, 6, 14, 13, 1, 13, 11, 12, 15, 13, 4, 8, 7, 5, 11, 5, 6, 8, 19, 4, 15, 7, 1, 7, -2, 10, 8, 4]
+degree sequence constrained:  [9, 5, 8, 10, 9, 10, 4, 4, 0, 10, 11, 8, 14, 7, 8, 9, 5, 9, 10, 11, 11, 4, 4, 17, 5, 8, 5, 8, 4, 8, 4, 8, 4, 4, 10, 7, 14, 10, 4, 4, 8, 9, 7, 7, 16, 4, 11, 16, 7, 7, 8, 11, 5, 2, 9, 11, 2, 4, 10, 4, 8, 4, 8, 14, 9, 5, 8, 5, 9, 8, 7, 9, 8, 11, 10, 7, 10, 8, 7, 4, 9, 8, 8, 4, 9, 7, 7, 4, 9, 17, 8, 4, 5, 10, 7, 11, 5, 4, 11, 7, 9, 8, 7, 16, 2, 8, 8, 9, 5, 5, 11, 10, 11, 4, 10, 4, 9, 4, 9, 14, 10, 10, 9, 7, 4, 13, 9, 7, 11, 7, 8, 1, 7, 7, 8, 9, 7, 10, 14, 7, 11, 9, 11, 8, 8, 8, 6, 7, 4, 7, 8, 10, 6, 4, 14, 6, 8, 7, 8, 5, 10, 8, 10, 6, 14, 4, 9, 7, 8, 6, 4, 6, 7, 9, 6, 5, 17, 5, 12, 16, 5, 6, 5, 9, 16, 8, 8, 9, 10, 10, 16, 5, 9, 9, 10, 9, 10, 6, 7, 9, 10, 9, 10, 5, 9, 5, 12, 6, 11, 6, 12, 6, 6, 5, 9, 11, 5, 4, 8, 10, 8, 7, 5, 11, 14, 10, 8, 9, 8, 7, 16, 11, 4, 8, 10, 7, 10, 11, 10, 7, 10, 5, 6, 11, 4, 9, 6, 8, 9, 10, 4, 7, 9, 6, 6, 12, 8, 7, 4, 8, 2, 8, 9, 7, 6, 6, 5, 7, 10, 11, 9, 16, 7, 8, 11, 6, 5, 7, 9, 2, 8, 7, 9, 5, 6, 9, 5, 4, 11, 5, 5, 6, 7, 4, 12, 6, 9, 7, 12, 9, 8, 14, 9, 6, 10, 8, 14, 9, 6, 6, 6, 9, 12, 6, 5, 1, 8, 4, 14, 10, 4, 9, 7, 5, 8, 10, 10, 6, 8, 5, 14, 7, 5, 14, 2, 6, 4, 11, 7, 6, 10, 10, 1, 9, 10, 8, 10, 6, 9, 9, 11, 6, 6, 9, 6, 8, 9, 6, 12, 5, 10, 8, 14, 4, 12, 6, 14, 6, 14, 10, 9, 10, 6, 10, 8, 11, 8, 8, 4, 8, 26, 11, 6, 4, 5, 6, 4, 10, 6, 8, 11, 7, 5, 5, 7, 4, 11, 11, 9, 8, 11, 4, 6, 5, 8, 8, 8, 9, 6, 10, 10, 10, 8, 5, 7, 9, 11, 8, 6, 5, 7, 11, 9, 6, 8, 7, 8, 6, 14, 9, 7, 8, 9, 8, 7, 6, 16, 12, 8, 9, 16, 14, 8, 8, 9, 7, 10, 6, 6, 9, 12, 6, 4, 11, 8, 2, 8, 14, 4, 9, 14, 5, 5, 7, 6, 6, 4, 8, 14, 7, 7, 10, 9, 11, 12, 9, 11, 12, 4, 5, 7, 11, 4, 11, 9, 7, 9, 8, 5, 9, 4, 7, 6, 8, 4, 16, 4, 7, 10, 9, 12, 9, 7, 6, 5, 8, 6, 8, 6, 9, 14, 6, 4, 4, 7, 6, 9, 5, 10, 5, 8, 12, 10, 8, 17, 9, 6, 9, 8, 10, 12, 6, 10, 6, 10, 7, 4, 7, 14, 7, 4, 6, 14, 2, 7, 8, 9, 6, 6, 7, 4, 11, 4, 7, 12, 11, 2, 11, 4, 14, 9, 7, 8, 6, 9, 12, 8, 11, 9, 6, 7, 8, 5, 6, 10, 9, 10, 7, 14, 7, 11, 9, 14, 10, 9, 8, 4, 5, 7, 9, 10, 7, 4, 11, 14, 6, 10, 9, 11, 5, 9, 6, 7, 7, 9, 10, 2, 10, 6, 7, 10, 7, 12, 9, 8, 15, 9, 11, 11, 9, 10, 7, 6, 4, 8, 7, 6, 12, 11, 7, 9, 9, 9, 10, 11, 6, 10, 7, 8, 7, 11, 9, 7, 6, 6, 6, 4, 9, 7, 2, 9, 4, 5, 9, 9, 4, 5, 7, 9, 11, 3, 8, 6, 8, 9, 7, 11, 8, 9, 10, 5, 12, 5, 10, 9, 6, 5, 11, 8, 11, 8, 9, 11, 6, 9, 10, 8, 8, 11, 7, 8, 11, 8, 5, 8, 7, 6, 5, 14, 11, 5, 8, 6, 8, 6, 7, 10, 10, 7, 4, 10, 10, 4, 7, 6, 6, 5, 5, 10, 8, 8, 14, 5, 4, 7, 6, 11, 8, 8, 10, 4, 9, 6, 6, 10, 10, 6, 15, 4, 8, 8, 6, 14, 6, 4, 8, 14, 10, 4, 12, 10, 5, 6, 4, 8, 9, 9, 5, 9, 11, 12, 5, 6, 6, 9, 9, 10, 8, 4, 11, 8, 15, 7, 5, 9, 10, 7, 4, 7, 7, 9, 9, 8, 9, 4, 12, 9, 4, 9, 4, 8, 11, 5, 5, 4, 12, 8, 7, 8, 7, 4, 9, 7, 7, 10, 8, 12, 14, 5, 7, 10, 7, 11, 7, 11, 11, 16, 9, 7, 15, 12, 26, 8, 7, 4, 9, 9, 7, 9, 4, 5, 11, 5, 7, 12, 9, 7, 11, 9, 4, 7, 5, 15, 9, 7, 11, 11, 4, 11, 9, 9, 7, 11, 14, 7, 9, 9, 7, 7, 7, 7, 4, 11, 7, 7, 7, 9, 9, 11, 9, 7, 4, 4, 5, 7, 7, 9, 7, 9, 11, 9, 9, 9, 11, 9, 12, 11, 9, 9, 9, 9, 5, 5, 9, 5, 9, 9, 15, 9, 7, 7, 12, 9, 7, 11, 7, 7, 11, 9, 5, 7, 11, 14, 7, 11, 16, 4, 7, 7, 7, 7, 3, 9, 11, 4, 7, 4, 5, 12, 12, 9, 4, 7, 9, 4, 11, 9, 9, 7, 9, 9, 11, 12, 5, 7, 7, 7, 11, 5, 9, 4, 5, 7, 11, 12, 7, 7, 12, 7, 7, 9, 4, 12, 12, 4, 9, 10, 7, 14, 7, 10, 10, 9, 11, 14, 9, 5, 10, 12, 13, 7, 14, 4, 9, 7, 7, 10, 7, 5, 9, 16, 4, 13, 7, 11, 7, 4, 11, 7, 7]
+mse of degree sequence with laplace:  7.358
+mse of degree sequence with constraint laplace :  16.228
